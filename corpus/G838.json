@@ -1,0 +1,242 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 124,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 152,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 191,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 202,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 360,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 361,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 612,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 613,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 615,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 616,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 831,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 832,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 833,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 834,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 975,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 979,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 980,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1118,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1119,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1121,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 6,
+            "id": 1128,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "羊飼い カタリナ"
+        }
+    ],
+    "village_id": "G838"
+}

@@ -1,0 +1,137 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 206,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 213,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 264,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 267,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 445,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 446,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 682,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 687,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 689,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 873,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 874,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1040,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        }
+    ],
+    "village_id": "G1393"
+}

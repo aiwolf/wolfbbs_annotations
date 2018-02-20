@@ -1,0 +1,216 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 226,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 235,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 236,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 240,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 503,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 504,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 506,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 794,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 795,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 797,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 799,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 1027,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 1030,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 1032,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 1045,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 1045,
+            "speaker": "パン屋 オットー",
+            "target": [
+                "司書 クララ",
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1226,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1241,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1384,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        }
+    ],
+    "village_id": "G692"
+}

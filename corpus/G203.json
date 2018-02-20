@@ -1,0 +1,245 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 188,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 192,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 220,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 243,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 405,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 407,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 644,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 645,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 646,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 647,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 854,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 855,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 856,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 859,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 859,
+            "speaker": "村娘 パメラ",
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 863,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 863,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1043,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1044,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1202,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1206,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1297,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        }
+    ],
+    "village_id": "G203"
+}

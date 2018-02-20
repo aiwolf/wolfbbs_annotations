@@ -1,0 +1,156 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 136,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 142,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 224,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 231,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 403,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 404,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 651,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 652,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 654,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 860,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 861,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1012,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 1139,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1157,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "少女 リーザ",
+                "シスター フリーデル"
+            ]
+        }
+    ],
+    "village_id": "G646"
+}

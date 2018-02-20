@@ -1,0 +1,143 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 114,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 122,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 147,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 161,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 324,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 326,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 523,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 524,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 699,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 700,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 813,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 7,
+            "id": 986,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "護衛先",
+            "day": 7,
+            "id": 986,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        }
+    ],
+    "village_id": "G1175"
+}

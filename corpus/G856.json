@@ -1,0 +1,251 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 175,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 180,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 183,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 212,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 236,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 270,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 442,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 448,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 451,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 452,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 694,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 695,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 696,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 926,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 927,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 972,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 972,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 973,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1129,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1130,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1136,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1265,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 7,
+            "id": 1368,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 8,
+            "id": 1421,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        }
+    ],
+    "village_id": "G856"
+}

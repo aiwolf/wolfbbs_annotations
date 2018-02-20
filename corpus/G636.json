@@ -1,0 +1,203 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 156,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 160,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 188,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 191,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 378,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 379,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 380,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 578,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 632,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 633,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 634,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 637,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 784,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 794,
+            "role": [
+                "狂人"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 799,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 951,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1087,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1214,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        }
+    ],
+    "village_id": "G636"
+}

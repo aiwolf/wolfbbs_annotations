@@ -1,0 +1,197 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 151,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 156,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 158,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 204,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 409,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 410,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 662,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 664,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 665,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 666,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 904,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 905,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 907,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 908,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1095,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1098,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1245,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        }
+    ],
+    "village_id": "G390"
+}

@@ -1,0 +1,200 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 209,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 213,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 215,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 218,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 267,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 322,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 450,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 451,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 670,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 672,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 673,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 732,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "護衛先",
+            "day": 3,
+            "id": 764,
+            "speaker": "パン屋 オットー",
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 783,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "護衛先",
+            "day": 3,
+            "id": 783,
+            "speaker": "木こり トーマス",
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 4,
+            "id": 879,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 880,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 1017,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1020,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        }
+    ],
+    "village_id": "G291"
+}

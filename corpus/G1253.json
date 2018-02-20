@@ -1,0 +1,191 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 133,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 140,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 153,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 402,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 403,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 404,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 660,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 660,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 664,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 667,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 668,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 671,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 830,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 839,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1007,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1151,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1262,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        }
+    ],
+    "village_id": "G1253"
+}

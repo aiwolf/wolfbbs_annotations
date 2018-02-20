@@ -1,0 +1,245 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 137,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 161,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 177,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 178,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 382,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 383,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 596,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 568,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 599,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 602,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 780,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 781,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 782,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 783,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 947,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 948,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 949,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1063,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1064,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1154,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1156,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        }
+    ],
+    "village_id": "G891"
+}

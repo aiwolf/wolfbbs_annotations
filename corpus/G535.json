@@ -1,0 +1,149 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 105,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 110,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 114,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 129,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 328,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 329,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 330,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 547,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 549,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 550,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 729,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 875,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 998,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        }
+    ],
+    "village_id": "G535"
+}

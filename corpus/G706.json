@@ -1,0 +1,215 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 167,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 168,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 172,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 176,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 431,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 432,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 667,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 689,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 690,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 691,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 692,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 693,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 894,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 895,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 896,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1059,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1060,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1199,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1200,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        }
+    ],
+    "village_id": "G706"
+}

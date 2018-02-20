@@ -1,0 +1,185 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 140,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 152,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 230,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 423,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 424,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 709,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 712,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 933,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 935,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 4,
+            "id": 945,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 945,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 945,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1135,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1138,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1304,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1304,
+            "speaker": "少女 リーザ",
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1323,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        }
+    ],
+    "village_id": "G1033"
+}

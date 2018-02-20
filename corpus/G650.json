@@ -1,0 +1,263 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 215,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 217,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 227,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 274,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 486,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 487,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 734,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 736,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 737,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 821,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 962,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 963,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 964,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 965,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1145,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1146,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1148,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1282,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1283,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 1301,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1301,
+            "speaker": "神父 ジムゾン",
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1404,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1409,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        }
+    ],
+    "village_id": "G650"
+}

@@ -1,0 +1,257 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 143,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 145,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 156,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 157,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 219,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 219,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 279,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 279,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 388,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 389,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 636,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 637,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 639,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 843,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 844,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 855,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1046,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1047,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1050,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1195,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1196,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1320,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 7,
+            "id": 1403,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        }
+    ],
+    "village_id": "G588"
+}

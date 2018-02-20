@@ -1,0 +1,137 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 201,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 203,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 298,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 327,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 446,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 447,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 704,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 705,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 706,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 886,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 887,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1061,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        }
+    ],
+    "village_id": "G632"
+}

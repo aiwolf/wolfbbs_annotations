@@ -1,0 +1,206 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 240,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 244,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 267,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 286,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 312,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 464,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 465,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 497,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 694,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 695,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 696,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 699,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 879,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 880,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 882,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1045,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1046,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1161,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        }
+    ],
+    "village_id": "G761"
+}

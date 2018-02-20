@@ -1,0 +1,92 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 86,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 94,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 107,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 272,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 273,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 476,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 478,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 640,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        }
+    ],
+    "village_id": "G532"
+}

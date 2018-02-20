@@ -1,0 +1,189 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 151,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 158,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 187,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 190,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 319,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 320,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 326,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 540,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 543,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 544,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 714,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 718,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 718,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 848,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 944,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 946,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 950,
+            "speaker": "農夫 ヤコブ",
+            "target": [
+                "村長 ヴァルター",
+                "村娘 パメラ"
+            ]
+        }
+    ],
+    "village_id": "G103"
+}

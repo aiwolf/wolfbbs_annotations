@@ -1,0 +1,249 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 211,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 236,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 241,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 241,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 285,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 445,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 445,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 445,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 446,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 684,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 714,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 715,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 720,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 924,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 925,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 927,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1093,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1094,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1255,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1393,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 7,
+            "id": 1494,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "護衛先",
+            "day": 7,
+            "id": 1494,
+            "speaker": "少年 ペーター",
+            "target": [
+                "行商人 アルビン",
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 8,
+            "id": 1504,
+            "speaker": "少年 ペーター",
+            "target": [
+                "行商人 アルビン"
+            ]
+        }
+    ],
+    "village_id": "G982"
+}

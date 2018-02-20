@@ -1,0 +1,123 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 125,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 128,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 129,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 302,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 303,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 478,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 479,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 598,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 603,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 603,
+            "speaker": "羊飼い カタリナ",
+            "target": [
+                "神父 ジムゾン",
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 719,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        }
+    ],
+    "village_id": "G232"
+}

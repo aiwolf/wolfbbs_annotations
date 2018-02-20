@@ -1,0 +1,183 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 119,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 121,
+            "role": [
+                "占い師",
+                "霊能者"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 130,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 155,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 205,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 326,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 327,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 518,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 520,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 651,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 801,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 801,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 802,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 804,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 806,
+            "speaker": "村娘 パメラ",
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 808,
+            "speaker": "村娘 パメラ",
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 809,
+            "speaker": "村娘 パメラ",
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 898,
+            "speaker": "村娘 パメラ",
+            "target": [
+                "少女 リーザ"
+            ]
+        }
+    ],
+    "village_id": "G1244"
+}

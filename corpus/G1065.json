@@ -1,0 +1,206 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 118,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 121,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "宿屋の女主人 レジーナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 124,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 127,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 301,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 302,
+            "speaker": "宿屋の女主人 レジーナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 303,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 500,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 501,
+            "speaker": "宿屋の女主人 レジーナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 502,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 503,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 682,
+            "speaker": "宿屋の女主人 レジーナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 683,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 685,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 813,
+            "speaker": "宿屋の女主人 レジーナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 813,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "宿屋の女主人 レジーナ"
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 815,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 903,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        }
+    ],
+    "village_id": "G1065"
+}

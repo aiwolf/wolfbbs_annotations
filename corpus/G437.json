@@ -1,0 +1,204 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 124,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 125,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 130,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 131,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 361,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 362,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 603,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 605,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 606,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 608,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 815,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 816,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 821,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 990,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 993,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 995,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 995,
+            "speaker": "シスター フリーデル",
+            "target": [
+                "村娘 パメラ",
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1141,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        }
+    ],
+    "village_id": "G437"
+}

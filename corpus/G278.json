@@ -1,0 +1,245 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 139,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 140,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 144,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 146,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 146,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 169,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 368,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 369,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 370,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 370,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 3,
+            "id": 373,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 634,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 637,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 640,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 860,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 861,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1052,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1054,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1226,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1240,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1350,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 8,
+            "id": 1465,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        }
+    ],
+    "village_id": "G278"
+}

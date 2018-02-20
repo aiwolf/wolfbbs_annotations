@@ -1,0 +1,201 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 131,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 145,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 149,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 172,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 375,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 376,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 377,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 605,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 606,
+            "speaker": "木こり トーマス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 608,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 609,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 802,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 803,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 911,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 911,
+            "speaker": "農夫 ヤコブ",
+            "target": [
+                "シスター フリーデル",
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 941,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1041,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1046,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        }
+    ],
+    "village_id": "G1170"
+}

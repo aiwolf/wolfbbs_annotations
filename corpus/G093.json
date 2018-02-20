@@ -1,0 +1,209 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 202,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 216,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 242,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 345,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 420,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 421,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 656,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 657,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 659,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 858,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 859,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 863,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 863,
+            "speaker": "農夫 ヤコブ",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 866,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 866,
+            "speaker": "少女 リーザ",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1016,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1021,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1150,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1165,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        }
+    ],
+    "village_id": "G093"
+}

@@ -1,0 +1,149 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 125,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "宿屋の女主人 レジーナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 129,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 130,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 171,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 378,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 379,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 609,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 610,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 611,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "宿屋の女主人 レジーナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 829,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 830,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1003,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1159,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        }
+    ],
+    "village_id": "G1275"
+}

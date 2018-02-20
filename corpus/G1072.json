@@ -1,0 +1,251 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 149,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 151,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 175,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 287,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 398,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 399,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 417,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 635,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 636,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 637,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 649,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 809,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 812,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 823,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 845,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 910,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 913,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 915,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1001,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1002,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 1011,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1011,
+            "speaker": "旅人 ニコラス",
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        }
+    ],
+    "village_id": "G1072"
+}

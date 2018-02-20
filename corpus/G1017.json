@@ -1,0 +1,255 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 217,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 218,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 230,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 461,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 462,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 495,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 702,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 707,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 709,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 711,
+            "speaker": "仕立て屋 エルナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 712,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 713,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 714,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 715,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 910,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 911,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 912,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1096,
+            "speaker": "旅人 ニコラス",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1097,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1098,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1117,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1117,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "羊飼い カタリナ",
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 1255,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        }
+    ],
+    "village_id": "G1017"
+}

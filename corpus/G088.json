@@ -1,0 +1,227 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 150,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 158,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 159,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 200,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 220,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 378,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 379,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 380,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 381,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 592,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 593,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 594,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 763,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 764,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 4,
+            "id": 829,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 829,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 866,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 991,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1077,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 7,
+            "id": 1148,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "護衛先",
+            "day": 7,
+            "id": 1148,
+            "speaker": "神父 ジムゾン",
+            "target": [
+                "司書 クララ"
+            ]
+        }
+    ],
+    "village_id": "G088"
+}

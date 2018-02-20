@@ -1,0 +1,177 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 111,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 112,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 125,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 325,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 326,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 327,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 454,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 2,
+            "id": 469,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 549,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 551,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 552,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 736,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 737,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 859,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 991,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 991,
+            "speaker": "木こり トーマス",
+            "target": [
+                "神父 ジムゾン",
+                "司書 クララ"
+            ]
+        }
+    ],
+    "village_id": "G603"
+}

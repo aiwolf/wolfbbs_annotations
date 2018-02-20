@@ -1,0 +1,234 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 160,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 165,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 167,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 193,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 385,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果撤回",
+            "day": 2,
+            "id": 386,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 386,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 388,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 391,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 635,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 636,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 646,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 827,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 828,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 994,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1011,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1086,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1086,
+            "speaker": "羊飼い カタリナ",
+            "target": [
+                "老人 モーリッツ",
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1090,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1090,
+            "speaker": "村長 ヴァルター",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1132,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        }
+    ],
+    "village_id": "G107"
+}

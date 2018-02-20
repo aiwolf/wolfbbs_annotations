@@ -1,0 +1,192 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 92,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 96,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 103,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 260,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 261,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 433,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 435,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 437,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 4,
+            "id": 580,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 582,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 646,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 726,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 726,
+            "speaker": "パン屋 オットー",
+            "target": [
+                "村長 ヴァルター",
+                "木こり トーマス"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 727,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 728,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 732,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 733,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 734,
+            "speaker": "老人 モーリッツ",
+            "target": [
+                "木こり トーマス"
+            ]
+        }
+    ],
+    "village_id": "G1272"
+}

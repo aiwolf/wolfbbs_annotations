@@ -1,0 +1,212 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 184,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 185,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 198,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 217,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 450,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 452,
+            "speaker": "シスター フリーデル",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 453,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 696,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 699,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 3,
+            "id": 703,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 703,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 720,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 874,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 904,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1014,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1116,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 1119,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1120,
+            "speaker": "ならず者 ディーター",
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 1126,
+            "speaker": "仕立て屋 エルナ",
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1136,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        }
+    ],
+    "village_id": "G1103"
+}

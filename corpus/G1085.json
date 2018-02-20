@@ -1,0 +1,195 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 105,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 110,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 114,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 124,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 146,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 146,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 286,
+            "speaker": "少女 リーザ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 288,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 289,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 469,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 470,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 475,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 602,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 603,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 719,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 807,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 807,
+            "speaker": "仕立て屋 エルナ",
+            "target": [
+                "村娘 パメラ",
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 812,
+            "speaker": "村娘 パメラ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        }
+    ],
+    "village_id": "G1085"
+}

@@ -1,0 +1,162 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 163,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 165,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 193,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 309,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 310,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 480,
+            "speaker": "農夫 ヤコブ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 482,
+            "speaker": "パン屋 オットー",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 484,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "神父 ジムゾン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 662,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 728,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 796,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 803,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 803,
+            "speaker": "村長 ヴァルター",
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 5,
+            "id": 816,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 820,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "行商人 アルビン",
+                "羊飼い カタリナ"
+            ]
+        }
+    ],
+    "village_id": "G014"
+}

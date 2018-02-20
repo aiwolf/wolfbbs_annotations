@@ -1,0 +1,241 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 103,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 105,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 114,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 115,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 327,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 329,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 511,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 513,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 539,
+            "speaker": "老人 モーリッツ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 3,
+            "id": 583,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 583,
+            "role": [
+                "人狼"
+            ],
+            "speaker": "老人 モーリッツ"
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 692,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 693,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 839,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "羊飼い カタリナ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 849,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 874,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 874,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間",
+                "人間",
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ",
+                "行商人 アルビン",
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 876,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 5,
+            "id": 894,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "護衛先",
+            "day": 5,
+            "id": 897,
+            "speaker": "農夫 ヤコブ",
+            "target": [
+                "老人 モーリッツ",
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 5,
+            "id": 914,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "占い結果",
+            "day": 6,
+            "id": 966,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        }
+    ],
+    "village_id": "G753"
+}

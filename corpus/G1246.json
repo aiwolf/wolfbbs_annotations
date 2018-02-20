@@ -1,0 +1,183 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 146,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 169,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 170,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "神父 ジムゾン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 179,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 400,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 401,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 629,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "仕立て屋 エルナ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 630,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 631,
+            "speaker": "行商人 アルビン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 871,
+            "speaker": "神父 ジムゾン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "シスター フリーデル"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 872,
+            "speaker": "司書 クララ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "老人 モーリッツ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 5,
+            "id": 1025,
+            "speaker": "司書 クララ",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 6,
+            "id": 1166,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1169,
+            "speaker": "青年 ヨアヒム",
+            "target": [
+                "行商人 アルビン",
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1172,
+            "speaker": "青年 ヨアヒム",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 6,
+            "id": 1173,
+            "speaker": "青年 ヨアヒム",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 7,
+            "id": 1280,
+            "speaker": "青年 ヨアヒム",
+            "target": [
+                "少女 リーザ"
+            ]
+        }
+    ],
+    "village_id": "G1246"
+}

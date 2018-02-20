@@ -1,0 +1,401 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 196,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 197,
+            "role": [
+                "狩人",
+                "占い師"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 197,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 198,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "行商人 アルビン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 199,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 200,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 201,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 202,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "農夫 ヤコブ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 205,
+            "role": [
+                "狩人",
+                "占い師"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 205,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "青年 ヨアヒム"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 206,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 207,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "司書 クララ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 208,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "シスター フリーデル"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 209,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少女 リーザ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 210,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 218,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 237,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 271,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 301,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 325,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 325,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "村長 ヴァルター"
+        },
+        {
+            "action": "CO撤回",
+            "day": 1,
+            "id": 333,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 441,
+            "speaker": "青年 ヨアヒム",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 442,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "農夫 ヤコブ"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 2,
+            "id": 671,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "旅人 ニコラス"
+        },
+        {
+            "action": "占い結果",
+            "day": 3,
+            "id": 679,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 681,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "旅人 ニコラス"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 3,
+            "id": 860,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "村娘 パメラ"
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 873,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 874,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "村娘 パメラ"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 1023,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 1037,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "村長 ヴァルター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 1052,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 4,
+            "id": 1052,
+            "speaker": "少年 ペーター",
+            "species": [
+                "人間",
+                "人間",
+                "人間"
+            ],
+            "target": [
+                "行商人 アルビン",
+                "羊飼い カタリナ",
+                "少女 リーザ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 1054,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "CO撤回",
+            "day": 5,
+            "id": 1088,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "仕立て屋 エルナ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 5,
+            "id": 1100,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO撤回",
+            "day": 5,
+            "id": 1108,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "パン屋 オットー"
+        },
+        {
+            "action": "霊能結果",
+            "day": 6,
+            "id": 1155,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "司書 クララ"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 7,
+            "id": 1252,
+            "speaker": "村長 ヴァルター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "パン屋 オットー"
+            ]
+        }
+    ],
+    "village_id": "G626"
+}

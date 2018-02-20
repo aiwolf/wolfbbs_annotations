@@ -1,0 +1,164 @@
+{
+    "annotations": [
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 77,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "羊飼い カタリナ"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 94,
+            "role": [
+                "霊能者"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "CO",
+            "day": 1,
+            "id": 103,
+            "role": [
+                "占い師"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 238,
+            "speaker": "ならず者 ディーター",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "占い結果",
+            "day": 2,
+            "id": 239,
+            "speaker": "羊飼い カタリナ",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 3,
+            "id": 427,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "青年 ヨアヒム"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 434,
+            "role": [
+                "狂人"
+            ],
+            "speaker": "ならず者 ディーター"
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 561,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "負傷兵 シモン"
+        },
+        {
+            "action": "護衛先",
+            "day": 3,
+            "id": 561,
+            "speaker": "負傷兵 シモン",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 3,
+            "id": 562,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "CO撤回",
+            "day": 3,
+            "id": 566,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "少年 ペーター"
+        },
+        {
+            "action": "霊能結果",
+            "day": 4,
+            "id": 576,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人間"
+            ],
+            "target": [
+                "ならず者 ディーター"
+            ]
+        },
+        {
+            "action": "CO",
+            "day": 4,
+            "id": 605,
+            "role": [
+                "狩人"
+            ],
+            "speaker": "木こり トーマス"
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 606,
+            "speaker": "木こり トーマス",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "護衛先",
+            "day": 4,
+            "id": 607,
+            "speaker": "木こり トーマス",
+            "target": [
+                "負傷兵 シモン"
+            ]
+        },
+        {
+            "action": "霊能結果",
+            "day": 5,
+            "id": 677,
+            "speaker": "負傷兵 シモン",
+            "species": [
+                "人狼"
+            ],
+            "target": [
+                "少年 ペーター"
+            ]
+        }
+    ],
+    "village_id": "G1343"
+}
