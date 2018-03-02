@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 150,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 152,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 174,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 215,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 391,
             "speaker": "負傷兵 シモン",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 393,
             "speaker": "シスター フリーデル",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 613,
             "speaker": "負傷兵 シモン",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 626,
             "speaker": "少年 ペーター",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 628,
             "speaker": "青年 ヨアヒム",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 779,
             "speaker": "負傷兵 シモン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 782,
             "speaker": "青年 ヨアヒム",
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 787,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 787,
             "speaker": "農夫 ヤコブ",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 963,
             "speaker": "負傷兵 シモン",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 966,
             "speaker": "青年 ヨアヒム",
@@ -164,6 +179,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1129,
             "speaker": "負傷兵 シモン",
@@ -176,6 +192,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1130,
             "speaker": "青年 ヨアヒム",

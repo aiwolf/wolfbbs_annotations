@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 54,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 56,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 67,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 135,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 194,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 289,
             "speaker": "ならず者 ディーター",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 290,
             "speaker": "木こり トーマス",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 517,
             "speaker": "ならず者 ディーター",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 519,
             "speaker": "木こり トーマス",
@@ -95,6 +104,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 521,
             "speaker": "仕立て屋 エルナ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 683,
             "speaker": "ならず者 ディーター",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 685,
             "speaker": "木こり トーマス",
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 688,
             "speaker": "仕立て屋 エルナ",
@@ -143,6 +156,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 861,
             "speaker": "ならず者 ディーター",
@@ -155,6 +169,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 862,
             "speaker": "仕立て屋 エルナ",
@@ -167,6 +182,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 872,
             "role": [
@@ -176,6 +192,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 878,
             "speaker": "少女 リーザ",
@@ -186,6 +203,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 992,
             "speaker": "仕立て屋 エルナ",
@@ -198,6 +216,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1094,
             "speaker": "仕立て屋 エルナ",

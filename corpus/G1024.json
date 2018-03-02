@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 123,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 131,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 182,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 374,
             "speaker": "旅人 ニコラス",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 375,
             "speaker": "神父 ジムゾン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 612,
             "speaker": "羊飼い カタリナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 642,
             "speaker": "神父 ジムゾン",
@@ -77,6 +84,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 815,
             "role": [
@@ -86,6 +94,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 815,
             "role": [
@@ -95,6 +104,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 818,
             "speaker": "羊飼い カタリナ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 822,
             "role": [
@@ -116,6 +127,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 822,
             "speaker": "パン屋 オットー",
@@ -125,6 +137,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 883,
             "role": [
@@ -134,6 +147,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 885,
             "speaker": "青年 ヨアヒム",
@@ -143,6 +157,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 886,
             "speaker": "青年 ヨアヒム",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 86,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 94,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 107,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 272,
             "speaker": "司書 クララ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 273,
             "speaker": "神父 ジムゾン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 476,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 478,
             "speaker": "村娘 パメラ",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 640,
             "speaker": "村娘 パメラ",

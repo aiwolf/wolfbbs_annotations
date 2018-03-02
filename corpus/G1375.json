@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 162,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 163,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 219,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 390,
             "speaker": "村長 ヴァルター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 391,
             "speaker": "村娘 パメラ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 617,
             "speaker": "村娘 パメラ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 618,
             "speaker": "少年 ペーター",
@@ -77,6 +84,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 788,
             "role": [
@@ -86,6 +94,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 788,
             "speaker": "パン屋 オットー",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 816,
             "speaker": "村娘 パメラ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 839,
             "speaker": "少年 ペーター",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 987,
             "speaker": "村娘 パメラ",
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1001,
             "speaker": "少年 ペーター",

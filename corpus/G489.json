@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 165,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 166,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 169,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 172,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 360,
             "speaker": "少年 ペーター",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 367,
             "speaker": "パン屋 オットー",
@@ -62,6 +68,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 587,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 593,
             "speaker": "少女 リーザ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 596,
             "speaker": "パン屋 オットー",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 772,
             "speaker": "パン屋 オットー",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 775,
             "speaker": "少女 リーザ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 776,
             "speaker": "老人 モーリッツ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 902,
             "speaker": "パン屋 オットー",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 905,
             "speaker": "少女 リーザ",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 982,
             "speaker": "パン屋 オットー",

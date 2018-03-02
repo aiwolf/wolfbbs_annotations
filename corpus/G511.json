@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 110,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 123,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 190,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 367,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 369,
             "speaker": "羊飼い カタリナ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 617,
             "speaker": "羊飼い カタリナ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 621,
             "speaker": "木こり トーマス",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 622,
             "speaker": "旅人 ニコラス",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 833,
             "speaker": "旅人 ニコラス",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 834,
             "speaker": "羊飼い カタリナ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 996,
             "speaker": "旅人 ニコラス",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1121,
             "speaker": "旅人 ニコラス",

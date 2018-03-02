@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 274,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 281,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 299,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 315,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 509,
             "speaker": "羊飼い カタリナ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 523,
             "speaker": "老人 モーリッツ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 524,
             "speaker": "木こり トーマス",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 756,
             "speaker": "羊飼い カタリナ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 759,
             "speaker": "木こり トーマス",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 762,
             "speaker": "神父 ジムゾン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 946,
             "speaker": "木こり トーマス",
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 948,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 948,
             "speaker": "羊飼い カタリナ",
@@ -143,6 +156,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 952,
             "role": [
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 959,
             "speaker": "神父 ジムゾン",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1065,
             "speaker": "神父 ジムゾン",
@@ -176,6 +192,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1068,
             "role": [
@@ -185,6 +202,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1177,
             "speaker": "神父 ジムゾン",
@@ -197,6 +215,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1264,
             "speaker": "神父 ジムゾン",

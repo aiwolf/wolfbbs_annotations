@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 113,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 115,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 121,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 140,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 178,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 355,
             "speaker": "仕立て屋 エルナ",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 356,
             "speaker": "少年 ペーター",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 544,
             "speaker": "仕立て屋 エルナ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 545,
             "speaker": "少年 ペーター",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 733,
             "speaker": "仕立て屋 エルナ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 735,
             "speaker": "少年 ペーター",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 849,
             "speaker": "少年 ペーター",
@@ -131,6 +143,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 962,
             "speaker": "少年 ペーター",
@@ -143,6 +156,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 974,
             "role": [
@@ -152,6 +166,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 974,
             "speaker": "青年 ヨアヒム",
@@ -161,6 +176,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1067,
             "speaker": "少年 ペーター",

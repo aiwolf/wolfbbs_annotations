@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 139,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 141,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 144,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 279,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 404,
             "speaker": "農夫 ヤコブ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 405,
             "speaker": "神父 ジムゾン",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 406,
             "speaker": "パン屋 オットー",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 666,
             "speaker": "神父 ジムゾン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 667,
             "speaker": "農夫 ヤコブ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 668,
             "speaker": "シスター フリーデル",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 685,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 687,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 890,
             "speaker": "シスター フリーデル",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1046,
             "speaker": "シスター フリーデル",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1194,
             "speaker": "シスター フリーデル",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1327,
             "speaker": "シスター フリーデル",
@@ -176,6 +192,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1336,
             "role": [
@@ -185,6 +202,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1337,
             "speaker": "青年 ヨアヒム",
@@ -195,6 +213,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1339,
             "role": [
@@ -204,6 +223,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1339,
             "speaker": "少女 リーザ",
@@ -214,6 +234,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1342,
             "speaker": "少女 リーザ",

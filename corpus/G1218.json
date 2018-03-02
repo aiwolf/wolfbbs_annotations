@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 93,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 123,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 157,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 265,
             "speaker": "仕立て屋 エルナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 416,
             "role": [
@@ -50,6 +55,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 442,
             "role": [
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 497,
             "speaker": "仕立て屋 エルナ",
@@ -71,6 +78,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 498,
             "speaker": "青年 ヨアヒム",
@@ -83,6 +91,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 651,
             "role": [
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 693,
             "speaker": "青年 ヨアヒム",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 694,
             "speaker": "仕立て屋 エルナ",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 797,
             "speaker": "仕立て屋 エルナ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 896,
             "role": [
@@ -137,6 +150,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "5日目まで",
             "day": 5,
             "id": 899,
             "speaker": "パン屋 オットー",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 933,
             "speaker": "仕立て屋 エルナ",
@@ -158,6 +173,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1026,
             "speaker": "仕立て屋 エルナ",

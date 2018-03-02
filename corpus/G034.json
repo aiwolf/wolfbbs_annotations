@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 254,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 256,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 313,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 472,
             "speaker": "宿屋の女主人 レジーナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 480,
             "speaker": "少年 ペーター",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 662,
             "speaker": "宿屋の女主人 レジーナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 663,
             "speaker": "シスター フリーデル",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 835,
             "speaker": "宿屋の女主人 レジーナ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 836,
             "speaker": "シスター フリーデル",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 978,
             "speaker": "シスター フリーデル",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 986,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 986,
             "speaker": "仕立て屋 エルナ",
@@ -132,6 +144,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1095,
             "speaker": "シスター フリーデル",

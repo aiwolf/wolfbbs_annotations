@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 94,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 95,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 98,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 104,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 346,
             "speaker": "司書 クララ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 347,
             "speaker": "パン屋 オットー",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 564,
             "speaker": "司書 クララ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 565,
             "speaker": "パン屋 オットー",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 566,
             "speaker": "行商人 アルビン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 759,
             "speaker": "司書 クララ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 761,
             "speaker": "パン屋 オットー",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 762,
             "speaker": "行商人 アルビン",
@@ -134,6 +146,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 913,
             "role": [
@@ -143,6 +156,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 913,
             "speaker": "農夫 ヤコブ",
@@ -153,6 +167,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 916,
             "role": [
@@ -162,6 +177,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 916,
             "speaker": "村長 ヴァルター",
@@ -172,6 +188,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 945,
             "speaker": "パン屋 オットー",
@@ -184,6 +201,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1074,
             "speaker": "パン屋 オットー",

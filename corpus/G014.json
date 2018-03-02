@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 163,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 165,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 193,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 309,
             "speaker": "パン屋 オットー",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 310,
             "speaker": "農夫 ヤコブ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 480,
             "speaker": "農夫 ヤコブ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 482,
             "speaker": "パン屋 オットー",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 484,
             "speaker": "行商人 アルビン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 662,
             "speaker": "行商人 アルビン",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 728,
             "speaker": "行商人 アルビン",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 796,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 803,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "初日から護衛",
             "day": 5,
             "id": 803,
             "speaker": "村長 ヴァルター",
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 816,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 820,
             "speaker": "負傷兵 シモン",

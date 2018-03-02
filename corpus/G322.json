@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 170,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 178,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 206,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 213,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 213,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 221,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 425,
             "speaker": "パン屋 オットー",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 426,
             "speaker": "村長 ヴァルター",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 689,
             "speaker": "村長 ヴァルター",
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 690,
             "speaker": "村娘 パメラ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 691,
             "speaker": "神父 ジムゾン",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 911,
             "speaker": "村娘 パメラ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 913,
             "speaker": "村長 ヴァルター",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1091,
             "speaker": "村娘 パメラ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1093,
             "speaker": "村長 ヴァルター",
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1238,
             "role": [
@@ -173,6 +189,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1238,
             "role": [
@@ -182,6 +199,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1250,
             "speaker": "村娘 パメラ",
@@ -194,6 +212,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1347,
             "speaker": "村娘 パメラ",

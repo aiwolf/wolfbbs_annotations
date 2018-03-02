@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 229,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 231,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 252,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 256,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 356,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 461,
             "speaker": "少年 ペーター",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 462,
             "speaker": "パン屋 オットー",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 463,
             "speaker": "宿屋の女主人 レジーナ",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 693,
             "speaker": "宿屋の女主人 レジーナ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 694,
             "speaker": "パン屋 オットー",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 695,
             "speaker": "少女 リーザ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 887,
             "speaker": "少女 リーザ",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1061,
             "speaker": "少女 リーザ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1110,
             "role": [
@@ -161,6 +176,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1111,
             "speaker": "行商人 アルビン",

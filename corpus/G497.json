@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 132,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 133,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 140,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 175,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 305,
             "speaker": "村娘 パメラ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 306,
             "speaker": "少女 リーザ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 403,
             "role": [
@@ -71,6 +78,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 403,
             "role": [
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 403,
             "speaker": "少年 ペーター",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 524,
             "speaker": "少女 リーザ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 526,
             "speaker": "村娘 パメラ",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 536,
             "speaker": "少年 ペーター",
@@ -128,6 +140,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 550,
             "role": [
@@ -137,6 +150,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 550,
             "speaker": "村長 ヴァルター",
@@ -151,6 +165,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 651,
             "speaker": "少年 ペーター",
@@ -163,6 +178,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 652,
             "speaker": "少女 リーザ",
@@ -175,6 +191,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 668,
             "speaker": "村娘 パメラ",
@@ -187,6 +204,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 773,
             "speaker": "少女 リーザ",
@@ -199,6 +217,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 787,
             "speaker": "村娘 パメラ",
@@ -211,6 +230,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 869,
             "speaker": "少女 リーザ",
@@ -223,6 +243,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 870,
             "role": [
@@ -232,6 +253,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 870,
             "role": [
@@ -241,6 +263,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 944,
             "speaker": "少女 リーザ",

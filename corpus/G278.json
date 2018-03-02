@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 139,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 140,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 144,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 146,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 146,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 169,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 368,
             "speaker": "少年 ペーター",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 369,
             "speaker": "旅人 ニコラス",
@@ -80,6 +88,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 370,
             "role": [
@@ -89,6 +98,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 370,
             "speaker": "村長 ヴァルター",
@@ -101,6 +111,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 373,
             "role": [
@@ -110,6 +121,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 634,
             "speaker": "旅人 ニコラス",
@@ -122,6 +134,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 637,
             "speaker": "シスター フリーデル",
@@ -134,6 +147,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 640,
             "speaker": "木こり トーマス",
@@ -146,6 +160,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 860,
             "speaker": "木こり トーマス",
@@ -158,6 +173,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 861,
             "speaker": "シスター フリーデル",
@@ -170,6 +186,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1052,
             "speaker": "木こり トーマス",
@@ -182,6 +199,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1054,
             "speaker": "シスター フリーデル",
@@ -194,6 +212,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1226,
             "speaker": "シスター フリーデル",
@@ -206,6 +225,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1240,
             "speaker": "木こり トーマス",
@@ -218,6 +238,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1350,
             "speaker": "木こり トーマス",
@@ -230,6 +251,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 8,
             "id": 1465,
             "speaker": "木こり トーマス",

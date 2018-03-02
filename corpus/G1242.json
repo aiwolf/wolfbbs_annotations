@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 99,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 102,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 109,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 238,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 250,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 296,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 357,
             "speaker": "負傷兵 シモン",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 358,
             "speaker": "農夫 ヤコブ",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 359,
             "speaker": "神父 ジムゾン",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 619,
             "speaker": "神父 ジムゾン",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 620,
             "speaker": "負傷兵 シモン",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 621,
             "speaker": "農夫 ヤコブ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 623,
             "speaker": "青年 ヨアヒム",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 832,
             "speaker": "負傷兵 シモン",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 833,
             "speaker": "神父 ジムゾン",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 835,
             "speaker": "青年 ヨアヒム",
@@ -176,6 +192,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 956,
             "role": [
@@ -185,6 +202,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 956,
             "speaker": "神父 ジムゾン",
@@ -194,6 +212,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 965,
             "role": [
@@ -203,6 +222,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 965,
             "speaker": "神父 ジムゾン",
@@ -217,6 +237,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 975,
             "speaker": "負傷兵 シモン",
@@ -229,6 +250,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 976,
             "speaker": "青年 ヨアヒム",
@@ -241,6 +263,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1096,
             "speaker": "青年 ヨアヒム",
@@ -253,6 +276,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1214,
             "speaker": "青年 ヨアヒム",
@@ -265,6 +289,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1220,
             "speaker": "ならず者 ディーター",
@@ -274,6 +299,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1223,
             "speaker": "ならず者 ディーター",

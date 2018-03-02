@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 155,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 164,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 220,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 401,
             "speaker": "司書 クララ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 402,
             "speaker": "旅人 ニコラス",
@@ -53,6 +58,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 644,
             "speaker": "羊飼い カタリナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 646,
             "speaker": "旅人 ニコラス",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 647,
             "speaker": "司書 クララ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 675,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 675,
             "speaker": "ならず者 ディーター",
@@ -112,6 +122,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 860,
             "speaker": "ならず者 ディーター",
@@ -124,6 +135,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 861,
             "speaker": "司書 クララ",
@@ -136,6 +148,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 862,
             "speaker": "旅人 ニコラス",
@@ -148,6 +161,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 863,
             "speaker": "羊飼い カタリナ",
@@ -160,6 +174,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1037,
             "speaker": "旅人 ニコラス",
@@ -172,6 +187,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1038,
             "speaker": "ならず者 ディーター",
@@ -184,6 +200,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1039,
             "speaker": "司書 クララ",
@@ -196,6 +213,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1189,
             "speaker": "司書 クララ",
@@ -208,6 +226,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1190,
             "speaker": "旅人 ニコラス",
@@ -220,6 +239,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1294,
             "speaker": "旅人 ニコラス",
@@ -232,6 +252,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1325,
             "speaker": "司書 クララ",

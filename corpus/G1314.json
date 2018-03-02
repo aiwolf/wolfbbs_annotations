@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 149,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 169,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 179,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 189,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 411,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 414,
             "speaker": "少年 ペーター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 643,
             "speaker": "青年 ヨアヒム",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 654,
             "speaker": "神父 ジムゾン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 655,
             "speaker": "司書 クララ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 854,
             "speaker": "少年 ペーター",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 855,
             "speaker": "司書 クララ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1065,
             "speaker": "少年 ペーター",
@@ -134,6 +146,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1140,
             "role": [
@@ -143,6 +156,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日目",
             "day": 6,
             "id": 1140,
             "speaker": "シスター フリーデル",

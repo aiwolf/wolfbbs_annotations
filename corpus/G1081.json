@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 89,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 129,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 147,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 169,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 302,
             "speaker": "行商人 アルビン",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 304,
             "speaker": "村娘 パメラ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 305,
             "speaker": "村長 ヴァルター",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 530,
             "speaker": "村長 ヴァルター",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 533,
             "speaker": "行商人 アルビン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 534,
             "speaker": "青年 ヨアヒム",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 698,
             "speaker": "青年 ヨアヒム",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 842,
             "speaker": "青年 ヨアヒム",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 969,
             "speaker": "青年 ヨアヒム",
@@ -146,6 +159,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1003,
             "role": [
@@ -155,6 +169,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1074,
             "speaker": "青年 ヨアヒム",
@@ -167,6 +182,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1078,
             "role": [

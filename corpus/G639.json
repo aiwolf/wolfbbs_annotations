@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 179,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 181,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 242,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 249,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 387,
             "speaker": "少女 リーザ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 388,
             "speaker": "青年 ヨアヒム",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 389,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 587,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 608,
             "speaker": "青年 ヨアヒム",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 609,
             "speaker": "老人 モーリッツ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 615,
             "speaker": "ならず者 ディーター",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 781,
             "speaker": "老人 モーリッツ",
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 782,
             "speaker": "ならず者 ディーター",
@@ -143,6 +156,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 854,
             "role": [
@@ -152,6 +166,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 854,
             "speaker": "農夫 ヤコブ",
@@ -162,6 +177,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 922,
             "speaker": "ならず者 ディーター",

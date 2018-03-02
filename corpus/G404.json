@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 241,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 252,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 264,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 470,
             "speaker": "仕立て屋 エルナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 471,
             "speaker": "農夫 ヤコブ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 472,
             "speaker": "パン屋 オットー",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 727,
             "speaker": "仕立て屋 エルナ",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 728,
             "speaker": "農夫 ヤコブ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 729,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 729,
             "speaker": "シスター フリーデル",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 895,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 895,
             "speaker": "青年 ヨアヒム",
@@ -128,6 +140,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 898,
             "speaker": "青年 ヨアヒム",
@@ -137,6 +150,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 961,
             "speaker": "シスター フリーデル",
@@ -149,6 +163,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1137,
             "speaker": "シスター フリーデル",
@@ -161,6 +176,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1293,
             "speaker": "シスター フリーデル",

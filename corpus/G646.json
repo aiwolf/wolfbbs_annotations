@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 136,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 142,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 224,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 231,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 403,
             "speaker": "羊飼い カタリナ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 404,
             "speaker": "少女 リーザ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 651,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 652,
             "speaker": "旅人 ニコラス",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 654,
             "speaker": "少女 リーザ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 860,
             "speaker": "老人 モーリッツ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 861,
             "speaker": "旅人 ニコラス",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1012,
             "speaker": "旅人 ニコラス",
@@ -134,6 +146,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1139,
             "role": [
@@ -143,6 +156,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日目",
             "day": 6,
             "id": 1157,
             "speaker": "負傷兵 シモン",

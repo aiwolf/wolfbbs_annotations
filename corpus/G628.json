@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 188,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 200,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 207,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 458,
             "speaker": "羊飼い カタリナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 459,
             "speaker": "村娘 パメラ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 460,
             "speaker": "ならず者 ディーター",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 460,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 460,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 472,
             "role": [
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 682,
             "speaker": "ならず者 ディーター",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 683,
             "speaker": "羊飼い カタリナ",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 685,
             "speaker": "少女 リーザ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 882,
             "speaker": "少女 リーザ",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 884,
             "speaker": "ならず者 ディーター",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1068,
             "speaker": "少女 リーザ",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1229,
             "speaker": "少女 リーザ",

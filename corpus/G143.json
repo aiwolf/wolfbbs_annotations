@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 286,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 288,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 292,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 415,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 485,
             "speaker": "パン屋 オットー",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 486,
             "speaker": "羊飼い カタリナ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 505,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 779,
             "speaker": "パン屋 オットー",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 780,
             "speaker": "羊飼い カタリナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 781,
             "speaker": "老人 モーリッツ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 1015,
             "speaker": "羊飼い カタリナ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 1025,
             "speaker": "パン屋 オットー",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 1026,
             "speaker": "老人 モーリッツ",
@@ -146,6 +159,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1242,
             "speaker": "パン屋 オットー",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1243,
             "speaker": "老人 モーリッツ",
@@ -170,6 +185,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1441,
             "role": [
@@ -179,6 +195,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1441,
             "speaker": "旅人 ニコラス",
@@ -189,6 +206,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1448,
             "speaker": "老人 モーリッツ",
@@ -201,6 +219,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1450,
             "speaker": "パン屋 オットー",
@@ -213,6 +232,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1596,
             "speaker": "パン屋 オットー",

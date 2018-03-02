@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 80,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 82,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 90,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 91,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 113,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 113,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 348,
             "speaker": "負傷兵 シモン",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 350,
             "speaker": "神父 ジムゾン",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 351,
             "speaker": "少女 リーザ",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 583,
             "speaker": "神父 ジムゾン",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 584,
             "speaker": "少女 リーザ",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 589,
             "speaker": "旅人 ニコラス",
@@ -128,6 +140,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 746,
             "role": [
@@ -137,6 +150,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 746,
             "speaker": "負傷兵 シモン",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 786,
             "speaker": "神父 ジムゾン",
@@ -158,6 +173,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 787,
             "speaker": "少女 リーザ",
@@ -170,6 +186,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 946,
             "speaker": "神父 ジムゾン",
@@ -182,6 +199,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 948,
             "speaker": "少女 リーザ",
@@ -194,6 +212,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1047,
             "speaker": "少女 リーザ",
@@ -206,6 +225,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1056,
             "speaker": "神父 ジムゾン",

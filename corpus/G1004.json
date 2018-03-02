@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 104,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 106,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 109,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 116,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 308,
             "speaker": "村娘 パメラ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 309,
             "speaker": "木こり トーマス",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 310,
             "speaker": "司書 クララ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 503,
             "speaker": "神父 ジムゾン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 639,
             "speaker": "神父 ジムゾン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 740,
             "speaker": "神父 ジムゾン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 766,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日3日目",
             "day": 5,
             "id": 766,
             "speaker": "パン屋 オットー",

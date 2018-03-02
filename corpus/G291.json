@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 209,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 213,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 215,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 218,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 267,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 322,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 450,
             "speaker": "仕立て屋 エルナ",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 451,
             "speaker": "老人 モーリッツ",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 670,
             "speaker": "仕立て屋 エルナ",
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 672,
             "speaker": "神父 ジムゾン",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 673,
             "speaker": "少年 ペーター",
@@ -116,6 +127,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 732,
             "role": [
@@ -125,6 +137,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 764,
             "speaker": "パン屋 オットー",
@@ -134,6 +147,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 783,
             "role": [
@@ -143,6 +157,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 783,
             "speaker": "木こり トーマス",
@@ -152,6 +167,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 879,
             "role": [
@@ -161,6 +177,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 880,
             "speaker": "少年 ペーター",
@@ -173,6 +190,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 1017,
             "speaker": "仕立て屋 エルナ",
@@ -185,6 +203,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1020,
             "speaker": "仕立て屋 エルナ",

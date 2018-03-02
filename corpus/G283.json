@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 132,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 143,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 183,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 361,
             "speaker": "農夫 ヤコブ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 362,
             "speaker": "木こり トーマス",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 621,
             "speaker": "農夫 ヤコブ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 622,
             "speaker": "木こり トーマス",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 629,
             "speaker": "宿屋の女主人 レジーナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 630,
             "speaker": "青年 ヨアヒム",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 808,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 808,
             "speaker": "負傷兵 シモン",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 834,
             "speaker": "農夫 ヤコブ",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 835,
             "speaker": "木こり トーマス",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 837,
             "speaker": "宿屋の女主人 レジーナ",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 838,
             "speaker": "青年 ヨアヒム",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1027,
             "speaker": "木こり トーマス",
@@ -188,6 +205,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1029,
             "speaker": "宿屋の女主人 レジーナ",

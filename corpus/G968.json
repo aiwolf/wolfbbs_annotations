@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 143,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 149,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 150,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 365,
             "speaker": "村長 ヴァルター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 366,
             "speaker": "ならず者 ディーター",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 367,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 561,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 597,
             "speaker": "神父 ジムゾン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 598,
             "speaker": "ならず者 ディーター",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 599,
             "speaker": "村長 ヴァルター",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 600,
             "speaker": "負傷兵 シモン",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 806,
             "speaker": "ならず者 ディーター",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 807,
             "speaker": "負傷兵 シモン",
@@ -146,6 +159,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 817,
             "speaker": "神父 ジムゾン",
@@ -158,6 +172,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 932,
             "speaker": "負傷兵 シモン",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 984,
             "speaker": "ならず者 ディーター",
@@ -182,6 +198,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1041,
             "speaker": "負傷兵 シモン",
@@ -194,6 +211,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1104,
             "speaker": "負傷兵 シモン",
@@ -206,6 +224,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 8,
             "id": 1157,
             "speaker": "負傷兵 シモン",

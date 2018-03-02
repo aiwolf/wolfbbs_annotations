@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 196,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 206,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 473,
             "speaker": "神父 ジムゾン",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 474,
             "speaker": "老人 モーリッツ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 692,
             "speaker": "老人 モーリッツ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 693,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 693,
             "speaker": "仕立て屋 エルナ",
@@ -88,6 +96,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 694,
             "speaker": "パン屋 オットー",
@@ -100,6 +109,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 897,
             "speaker": "老人 モーリッツ",
@@ -112,6 +122,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 898,
             "speaker": "仕立て屋 エルナ",
@@ -124,6 +135,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 899,
             "speaker": "パン屋 オットー",
@@ -136,6 +148,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1028,
             "speaker": "仕立て屋 エルナ",
@@ -148,6 +161,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1029,
             "speaker": "パン屋 オットー",
@@ -160,6 +174,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1138,
             "speaker": "仕立て屋 エルナ",
@@ -172,6 +187,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1139,
             "speaker": "パン屋 オットー",
@@ -184,6 +200,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1215,
             "role": [
@@ -193,6 +210,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1215,
             "speaker": "負傷兵 シモン",

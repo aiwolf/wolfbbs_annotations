@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 92,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 93,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 98,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 288,
             "speaker": "村娘 パメラ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 289,
             "speaker": "負傷兵 シモン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 467,
             "speaker": "村娘 パメラ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 468,
             "speaker": "負傷兵 シモン",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 469,
             "speaker": "村長 ヴァルター",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 632,
             "speaker": "村娘 パメラ",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 633,
             "speaker": "村長 ヴァルター",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 712,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 712,
             "speaker": "ならず者 ディーター",
@@ -131,6 +143,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 714,
             "speaker": "ならず者 ディーター",
@@ -140,6 +153,7 @@
         },
         {
             "action": "護衛先撤回",
+            "comment": "",
             "day": 4,
             "id": 736,
             "speaker": "ならず者 ディーター",
@@ -149,6 +163,7 @@
         },
         {
             "action": "護衛先撤回",
+            "comment": "",
             "day": 4,
             "id": 742,
             "speaker": "ならず者 ディーター",
@@ -158,6 +173,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 747,
             "speaker": "村長 ヴァルター",
@@ -170,6 +186,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 749,
             "speaker": "ならず者 ディーター",
@@ -179,6 +196,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 750,
             "speaker": "村娘 パメラ",
@@ -191,6 +209,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 805,
             "speaker": "村娘 パメラ",
@@ -203,6 +222,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 807,
             "role": [
@@ -212,6 +232,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 807,
             "speaker": "青年 ヨアヒム",
@@ -224,6 +245,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 831,
             "speaker": "村長 ヴァルター",

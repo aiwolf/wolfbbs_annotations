@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 175,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 216,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 219,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 247,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 253,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 296,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 392,
             "speaker": "負傷兵 シモン",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 393,
             "speaker": "旅人 ニコラス",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 610,
             "speaker": "負傷兵 シモン",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 612,
             "speaker": "旅人 ニコラス",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 615,
             "speaker": "村長 ヴァルター",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 629,
             "speaker": "農夫 ヤコブ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 786,
             "speaker": "負傷兵 シモン",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 787,
             "speaker": "旅人 ニコラス",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 789,
             "speaker": "村長 ヴァルター",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 799,
             "speaker": "農夫 ヤコブ",
@@ -176,6 +192,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 887,
             "role": [
@@ -185,6 +202,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 954,
             "speaker": "旅人 ニコラス",
@@ -197,6 +215,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 964,
             "speaker": "農夫 ヤコブ",
@@ -209,6 +228,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 997,
             "role": [
@@ -218,6 +238,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 997,
             "speaker": "ならず者 ディーター",
@@ -227,6 +248,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1098,
             "speaker": "旅人 ニコラス",
@@ -239,6 +261,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1142,
             "speaker": "農夫 ヤコブ",

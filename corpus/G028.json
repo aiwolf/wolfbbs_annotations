@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 123,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 124,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 128,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 135,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 310,
             "speaker": "宿屋の女主人 レジーナ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 311,
             "speaker": "老人 モーリッツ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 312,
             "speaker": "負傷兵 シモン",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 546,
             "speaker": "負傷兵 シモン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 548,
             "speaker": "宿屋の女主人 レジーナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 550,
             "speaker": "老人 モーリッツ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 730,
             "speaker": "負傷兵 シモン",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 731,
             "speaker": "宿屋の女主人 レジーナ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 906,
             "speaker": "負傷兵 シモン",
@@ -146,6 +159,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1019,
             "role": [
@@ -155,6 +169,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1019,
             "speaker": "少年 ペーター",
@@ -164,6 +179,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1023,
             "speaker": "少年 ペーター",
@@ -175,6 +191,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1123,
             "speaker": "少年 ペーター",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 89,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 92,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 99,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 121,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 163,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 354,
             "speaker": "神父 ジムゾン",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 355,
             "speaker": "村長 ヴァルター",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 357,
             "speaker": "仕立て屋 エルナ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 565,
             "speaker": "仕立て屋 エルナ",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 566,
             "speaker": "村長 ヴァルター",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 567,
             "speaker": "神父 ジムゾン",
@@ -119,6 +130,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 568,
             "speaker": "青年 ヨアヒム",
@@ -131,6 +143,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 623,
             "role": [
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 632,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 689,
             "role": [
@@ -158,6 +173,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 689,
             "role": [
@@ -167,6 +183,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 691,
             "role": [
@@ -176,6 +193,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 691,
             "role": [
@@ -185,6 +203,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 706,
             "role": [
@@ -194,6 +213,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 797,
             "role": [
@@ -203,6 +223,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 800,
             "speaker": "青年 ヨアヒム",
@@ -215,6 +236,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 834,
             "role": [
@@ -224,6 +246,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 951,
             "speaker": "青年 ヨアヒム",
@@ -236,6 +259,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1051,
             "speaker": "青年 ヨアヒム",

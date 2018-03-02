@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 204,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 209,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 225,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 427,
             "speaker": "行商人 アルビン",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 428,
             "speaker": "負傷兵 シモン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 429,
             "speaker": "シスター フリーデル",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 644,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 647,
             "speaker": "行商人 アルビン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 648,
             "speaker": "シスター フリーデル",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 649,
             "speaker": "負傷兵 シモン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 848,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 880,
             "speaker": "行商人 アルビン",
@@ -131,6 +143,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 881,
             "speaker": "負傷兵 シモン",
@@ -143,6 +156,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 884,
             "speaker": "シスター フリーデル",
@@ -155,6 +169,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 902,
             "speaker": "農夫 ヤコブ",
@@ -165,6 +180,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1087,
             "speaker": "負傷兵 シモン",
@@ -177,6 +193,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1088,
             "speaker": "行商人 アルビン",
@@ -189,6 +206,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1116,
             "speaker": "農夫 ヤコブ",
@@ -198,6 +216,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1233,
             "speaker": "負傷兵 シモン",
@@ -210,6 +229,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 8,
             "id": 1433,
             "role": [
@@ -219,6 +239,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1437,
             "speaker": "老人 モーリッツ",
@@ -228,6 +249,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1438,
             "speaker": "老人 モーリッツ",
@@ -237,6 +259,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1440,
             "speaker": "老人 モーリッツ",
@@ -246,6 +269,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1441,
             "speaker": "老人 モーリッツ",
@@ -255,6 +279,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1442,
             "speaker": "老人 モーリッツ",
@@ -264,6 +289,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1443,
             "speaker": "老人 モーリッツ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 139,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 141,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 177,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 194,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 300,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 301,
             "speaker": "村長 ヴァルター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 473,
             "speaker": "シスター フリーデル",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 474,
             "speaker": "村長 ヴァルター",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 475,
             "speaker": "仕立て屋 エルナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 615,
             "speaker": "仕立て屋 エルナ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 617,
             "speaker": "シスター フリーデル",
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 743,
             "speaker": "仕立て屋 エルナ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 745,
             "speaker": "シスター フリーデル",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果撤回",
+            "comment": "",
             "day": 5,
             "id": 819,
             "speaker": "仕立て屋 エルナ",
@@ -158,6 +172,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 819,
             "speaker": "仕立て屋 エルナ",
@@ -170,6 +185,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 821,
             "role": [
@@ -179,6 +195,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 821,
             "speaker": "木こり トーマス",
@@ -190,6 +207,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 822,
             "speaker": "仕立て屋 エルナ",
@@ -202,6 +220,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 831,
             "speaker": "木こり トーマス",

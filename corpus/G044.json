@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 121,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 125,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 153,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 510,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 510,
             "speaker": "司書 クララ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 521,
             "speaker": "木こり トーマス",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 522,
             "speaker": "司書 クララ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 597,
             "speaker": "少年 ペーター",
@@ -88,6 +96,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 688,
             "speaker": "木こり トーマス",
@@ -100,6 +109,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 803,
             "speaker": "司書 クララ",
@@ -114,6 +124,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 891,
             "role": [
@@ -123,6 +134,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 891,
             "speaker": "少女 リーザ",
@@ -133,6 +145,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 897,
             "role": [
@@ -142,6 +155,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 897,
             "speaker": "パン屋 オットー",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 908,
             "speaker": "司書 クララ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 160,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 165,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 167,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 193,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 385,
             "speaker": "司書 クララ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果撤回",
+            "comment": "",
             "day": 2,
             "id": 386,
             "speaker": "司書 クララ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 386,
             "speaker": "司書 クララ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 388,
             "speaker": "パン屋 オットー",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 391,
             "speaker": "老人 モーリッツ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 635,
             "speaker": "老人 モーリッツ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 636,
             "speaker": "負傷兵 シモン",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 646,
             "speaker": "パン屋 オットー",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 827,
             "speaker": "老人 モーリッツ",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 828,
             "speaker": "負傷兵 シモン",
@@ -158,6 +172,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 994,
             "speaker": "負傷兵 シモン",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1011,
             "speaker": "老人 モーリッツ",
@@ -182,6 +198,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1086,
             "role": [
@@ -191,6 +208,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日目",
             "day": 5,
             "id": 1086,
             "speaker": "羊飼い カタリナ",
@@ -201,6 +219,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1090,
             "role": [
@@ -210,6 +229,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "4日目まで",
             "day": 5,
             "id": 1090,
             "speaker": "村長 ヴァルター",
@@ -219,6 +239,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1132,
             "speaker": "負傷兵 シモン",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 352,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 352,
             "speaker": "村長 ヴァルター",
@@ -32,6 +35,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 359,
             "role": [
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 359,
             "speaker": "村娘 パメラ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 383,
             "role": [
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 383,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 572,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 572,
             "role": [
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 573,
             "speaker": "村長 ヴァルター",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 577,
             "speaker": "青年 ヨアヒム",
@@ -116,6 +127,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 594,
             "role": [
@@ -125,6 +137,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 717,
             "speaker": "青年 ヨアヒム",
@@ -137,6 +150,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 718,
             "speaker": "村長 ヴァルター",
@@ -149,6 +163,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 859,
             "speaker": "青年 ヨアヒム",

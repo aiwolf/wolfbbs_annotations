@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 133,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 136,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 383,
             "speaker": "パン屋 オットー",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 384,
             "speaker": "行商人 アルビン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 385,
             "speaker": "ならず者 ディーター",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 629,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 631,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 632,
             "speaker": "神父 ジムゾン",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 634,
             "speaker": "行商人 アルビン",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 635,
             "speaker": "パン屋 オットー",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 637,
             "speaker": "ならず者 ディーター",
@@ -131,6 +143,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 639,
             "role": [
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 639,
             "speaker": "少女 リーザ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 856,
             "speaker": "行商人 アルビン",
@@ -164,6 +179,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 857,
             "speaker": "ならず者 ディーター",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 858,
             "speaker": "パン屋 オットー",
@@ -188,6 +205,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 859,
             "speaker": "少女 リーザ",
@@ -200,6 +218,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1033,
             "speaker": "パン屋 オットー",
@@ -212,6 +231,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1035,
             "speaker": "行商人 アルビン",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1036,
             "speaker": "ならず者 ディーター",
@@ -236,6 +257,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1178,
             "speaker": "ならず者 ディーター",
@@ -248,6 +270,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1179,
             "speaker": "行商人 アルビン",
@@ -260,6 +283,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1288,
             "speaker": "行商人 アルビン",

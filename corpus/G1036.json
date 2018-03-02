@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 124,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 126,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 140,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 145,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 145,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 382,
             "speaker": "宿屋の女主人 レジーナ",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 383,
             "speaker": "青年 ヨアヒム",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 640,
             "speaker": "青年 ヨアヒム",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 641,
             "speaker": "宿屋の女主人 レジーナ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 642,
             "speaker": "神父 ジムゾン",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 643,
             "speaker": "司書 クララ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 841,
             "speaker": "青年 ヨアヒム",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 842,
             "speaker": "宿屋の女主人 レジーナ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 844,
             "speaker": "神父 ジムゾン",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 845,
             "speaker": "司書 クララ",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1034,
             "speaker": "青年 ヨアヒム",
@@ -188,6 +205,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1035,
             "speaker": "司書 クララ",
@@ -200,6 +218,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1197,
             "speaker": "青年 ヨアヒム",
@@ -212,6 +231,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1198,
             "speaker": "司書 クララ",
@@ -224,6 +244,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1226,
             "role": [
@@ -233,6 +254,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1227,
             "speaker": "少女 リーザ",
@@ -242,6 +264,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1232,
             "role": [
@@ -251,6 +274,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1233,
             "speaker": "羊飼い カタリナ",
@@ -260,6 +284,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1234,
             "speaker": "羊飼い カタリナ",

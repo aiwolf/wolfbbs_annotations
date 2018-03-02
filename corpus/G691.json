@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 201,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 202,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 204,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 214,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 462,
             "speaker": "シスター フリーデル",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 464,
             "speaker": "旅人 ニコラス",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 465,
             "speaker": "少年 ペーター",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 700,
             "speaker": "シスター フリーデル",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 701,
             "speaker": "旅人 ニコラス",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 702,
             "speaker": "少年 ペーター",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 908,
             "speaker": "旅人 ニコラス",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 909,
             "speaker": "少年 ペーター",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1072,
             "speaker": "少年 ペーター",
@@ -146,6 +159,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1342,
             "role": [
@@ -155,6 +169,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1342,
             "speaker": "村娘 パメラ",
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1346,
             "role": [
@@ -173,6 +189,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1352,
             "speaker": "村長 ヴァルター",
@@ -182,6 +199,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1353,
             "speaker": "村長 ヴァルター",
@@ -191,6 +209,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1359,
             "speaker": "村長 ヴァルター",

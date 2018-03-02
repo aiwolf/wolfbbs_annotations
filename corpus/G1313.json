@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 217,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 219,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 221,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 222,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 471,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 472,
             "speaker": "シスター フリーデル",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 474,
             "speaker": "ならず者 ディーター",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 715,
             "speaker": "青年 ヨアヒム",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 716,
             "speaker": "ならず者 ディーター",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 717,
             "speaker": "司書 クララ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 859,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 902,
             "speaker": "羊飼い カタリナ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 902,
             "role": [
@@ -137,6 +150,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 907,
             "role": [
@@ -146,6 +160,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 907,
             "speaker": "神父 ジムゾン",
@@ -155,6 +170,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 913,
             "speaker": "ならず者 ディーター",
@@ -167,6 +183,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 914,
             "speaker": "青年 ヨアヒム",
@@ -179,6 +196,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 915,
             "speaker": "司書 クララ",
@@ -191,6 +209,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1107,
             "speaker": "青年 ヨアヒム",
@@ -203,6 +222,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1108,
             "speaker": "司書 クララ",
@@ -215,6 +235,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1247,
             "speaker": "青年 ヨアヒム",

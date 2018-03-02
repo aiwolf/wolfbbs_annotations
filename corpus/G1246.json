@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 146,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 169,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 170,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 179,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 400,
             "speaker": "行商人 アルビン",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 401,
             "speaker": "司書 クララ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 629,
             "speaker": "司書 クララ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 630,
             "speaker": "神父 ジムゾン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 631,
             "speaker": "行商人 アルビン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 871,
             "speaker": "神父 ジムゾン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 872,
             "speaker": "司書 クララ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1025,
             "speaker": "司書 クララ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1166,
             "role": [
@@ -143,6 +156,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1169,
             "speaker": "青年 ヨアヒム",
@@ -153,6 +167,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1172,
             "speaker": "青年 ヨアヒム",
@@ -162,6 +177,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1173,
             "speaker": "青年 ヨアヒム",
@@ -171,6 +187,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1280,
             "speaker": "青年 ヨアヒム",

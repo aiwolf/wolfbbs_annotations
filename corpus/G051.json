@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 136,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 162,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 203,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 266,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 348,
             "speaker": "木こり トーマス",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 349,
             "speaker": "羊飼い カタリナ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 353,
             "speaker": "負傷兵 シモン",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 568,
             "speaker": "負傷兵 シモン",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 569,
             "speaker": "木こり トーマス",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果撤回",
+            "comment": "",
             "day": 3,
             "id": 569,
             "speaker": "木こり トーマス",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 570,
             "speaker": "木こり トーマス",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 571,
             "speaker": "羊飼い カタリナ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 576,
             "speaker": "行商人 アルビン",
@@ -146,6 +159,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 742,
             "speaker": "負傷兵 シモン",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 743,
             "speaker": "木こり トーマス",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 744,
             "speaker": "羊飼い カタリナ",
@@ -182,6 +198,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 745,
             "speaker": "行商人 アルビン",
@@ -194,6 +211,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 873,
             "role": [
@@ -203,6 +221,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 873,
             "speaker": "旅人 ニコラス",
@@ -212,6 +231,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 876,
             "role": [
@@ -221,6 +241,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 876,
             "speaker": "村娘 パメラ",
@@ -230,6 +251,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 918,
             "speaker": "木こり トーマス",
@@ -242,6 +264,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 920,
             "speaker": "羊飼い カタリナ",
@@ -254,6 +277,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 921,
             "speaker": "行商人 アルビン",
@@ -266,6 +290,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1027,
             "speaker": "木こり トーマス",
@@ -278,6 +303,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1028,
             "speaker": "羊飼い カタリナ",

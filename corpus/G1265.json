@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 195,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 196,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 207,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 250,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 459,
             "speaker": "行商人 アルビン",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 461,
             "speaker": "羊飼い カタリナ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 462,
             "speaker": "老人 モーリッツ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 699,
             "speaker": "羊飼い カタリナ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 700,
             "speaker": "老人 モーリッツ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 701,
             "speaker": "行商人 アルビン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 702,
             "speaker": "少年 ペーター",
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 869,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 907,
             "role": [
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 908,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 909,
             "speaker": "羊飼い カタリナ",
@@ -161,6 +176,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 910,
             "speaker": "少年 ペーター",
@@ -173,6 +189,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 913,
             "speaker": "行商人 アルビン",
@@ -185,6 +202,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 1066,
             "role": [
@@ -194,6 +212,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1077,
             "speaker": "羊飼い カタリナ",
@@ -206,6 +225,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1078,
             "speaker": "少年 ペーター",
@@ -218,6 +238,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1079,
             "speaker": "行商人 アルビン",
@@ -230,6 +251,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1112,
             "role": [
@@ -239,6 +261,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1112,
             "speaker": "パン屋 オットー",
@@ -248,6 +271,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1113,
             "speaker": "パン屋 オットー",
@@ -257,6 +281,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1184,
             "speaker": "少年 ペーター",

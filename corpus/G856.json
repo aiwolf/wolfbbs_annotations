@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 175,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 180,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 183,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 212,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 270,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 442,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 448,
             "role": [
@@ -74,6 +82,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 451,
             "speaker": "少年 ペーター",
@@ -86,6 +95,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 452,
             "speaker": "少女 リーザ",
@@ -98,6 +108,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 694,
             "speaker": "少女 リーザ",
@@ -110,6 +121,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 695,
             "speaker": "少年 ペーター",
@@ -122,6 +134,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 696,
             "speaker": "パン屋 オットー",
@@ -134,6 +147,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 926,
             "speaker": "少女 リーザ",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 927,
             "speaker": "少年 ペーター",
@@ -158,6 +173,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 972,
             "role": [
@@ -167,6 +183,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 972,
             "speaker": "負傷兵 シモン",
@@ -176,6 +193,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 973,
             "speaker": "負傷兵 シモン",
@@ -185,6 +203,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1129,
             "speaker": "少年 ペーター",
@@ -197,6 +216,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1130,
             "speaker": "少女 リーザ",
@@ -209,6 +229,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1136,
             "speaker": "負傷兵 シモン",
@@ -218,6 +239,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1265,
             "speaker": "少女 リーザ",
@@ -230,6 +252,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 7,
             "id": 1368,
             "role": [
@@ -239,6 +262,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 8,
             "id": 1421,
             "role": [

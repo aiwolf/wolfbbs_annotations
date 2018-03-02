@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 114,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 139,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 144,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 216,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 344,
             "speaker": "旅人 ニコラス",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 345,
             "speaker": "村長 ヴァルター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 346,
             "speaker": "羊飼い カタリナ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 605,
             "speaker": "羊飼い カタリナ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 606,
             "speaker": "旅人 ニコラス",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 609,
             "speaker": "仕立て屋 エルナ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 787,
             "speaker": "羊飼い カタリナ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 788,
             "speaker": "旅人 ニコラス",
@@ -134,6 +146,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 789,
             "speaker": "仕立て屋 エルナ",
@@ -146,6 +159,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 934,
             "speaker": "旅人 ニコラス",
@@ -158,6 +172,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 935,
             "speaker": "仕立て屋 エルナ",
@@ -170,6 +185,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 945,
             "role": [
@@ -179,6 +195,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 945,
             "role": [
@@ -188,6 +205,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1036,
             "speaker": "仕立て屋 エルナ",
@@ -200,6 +218,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1183,
             "speaker": "仕立て屋 エルナ",

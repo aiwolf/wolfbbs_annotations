@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 207,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 232,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 257,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 450,
             "speaker": "司書 クララ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 451,
             "speaker": "仕立て屋 エルナ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 669,
             "speaker": "仕立て屋 エルナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 670,
             "speaker": "司書 クララ",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 675,
             "speaker": "神父 ジムゾン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 689,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 689,
             "role": [
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 848,
             "speaker": "仕立て屋 エルナ",
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 850,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 850,
             "speaker": "老人 モーリッツ",
@@ -144,6 +157,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 853,
             "speaker": "神父 ジムゾン",
@@ -156,6 +170,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1007,
             "speaker": "仕立て屋 エルナ",
@@ -168,6 +183,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1008,
             "speaker": "老人 モーリッツ",
@@ -180,6 +196,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1162,
             "speaker": "仕立て屋 エルナ",
@@ -192,6 +209,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1163,
             "speaker": "老人 モーリッツ",
@@ -204,6 +222,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1279,
             "speaker": "仕立て屋 エルナ",
@@ -216,6 +235,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1280,
             "speaker": "老人 モーリッツ",
@@ -228,6 +248,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 8,
             "id": 1369,
             "speaker": "仕立て屋 エルナ",

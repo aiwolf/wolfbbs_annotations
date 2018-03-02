@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 102,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 105,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 106,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 118,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 340,
             "speaker": "ならず者 ディーター",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 341,
             "speaker": "村長 ヴァルター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 342,
             "speaker": "仕立て屋 エルナ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 584,
             "speaker": "ならず者 ディーター",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 585,
             "speaker": "仕立て屋 エルナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 586,
             "speaker": "農夫 ヤコブ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 753,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 761,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 761,
             "speaker": "神父 ジムゾン",
@@ -137,6 +150,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 783,
             "speaker": "仕立て屋 エルナ",
@@ -149,6 +163,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 784,
             "speaker": "ならず者 ディーター",
@@ -161,6 +176,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 785,
             "speaker": "農夫 ヤコブ",
@@ -173,6 +189,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 922,
             "speaker": "仕立て屋 エルナ",
@@ -185,6 +202,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 924,
             "speaker": "ならず者 ディーター",
@@ -197,6 +215,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1028,
             "speaker": "仕立て屋 エルナ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 185,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 187,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 189,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 190,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 210,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 448,
             "speaker": "青年 ヨアヒム",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 449,
             "speaker": "少女 リーザ",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 450,
             "speaker": "羊飼い カタリナ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 451,
             "speaker": "農夫 ヤコブ",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 725,
             "speaker": "青年 ヨアヒム",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 726,
             "speaker": "少女 リーザ",
@@ -119,6 +130,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 728,
             "speaker": "神父 ジムゾン",
@@ -131,6 +143,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 947,
             "role": [
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 948,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 949,
             "speaker": "神父 ジムゾン",
@@ -161,6 +176,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1114,
             "speaker": "神父 ジムゾン",

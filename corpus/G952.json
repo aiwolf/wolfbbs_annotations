@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 96,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 99,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 101,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 132,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 358,
             "speaker": "行商人 アルビン",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 359,
             "speaker": "司書 クララ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 360,
             "speaker": "負傷兵 シモン",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 614,
             "speaker": "司書 クララ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 616,
             "speaker": "負傷兵 シモン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 617,
             "speaker": "行商人 アルビン",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 620,
             "speaker": "木こり トーマス",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 832,
             "speaker": "負傷兵 シモン",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 833,
             "speaker": "行商人 アルビン",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 834,
             "speaker": "木こり トーマス",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1017,
             "speaker": "負傷兵 シモン",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1018,
             "speaker": "行商人 アルビン",
@@ -182,6 +198,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1025,
             "speaker": "木こり トーマス",
@@ -194,6 +211,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1185,
             "role": [
@@ -203,6 +221,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1185,
             "role": [
@@ -212,6 +231,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1185,
             "speaker": "行商人 アルビン",
@@ -228,6 +248,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1186,
             "speaker": "行商人 アルビン",
@@ -240,6 +261,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1187,
             "speaker": "木こり トーマス",
@@ -252,6 +274,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1324,
             "speaker": "木こり トーマス",

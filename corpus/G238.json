@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 184,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 199,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 215,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 227,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 442,
             "speaker": "仕立て屋 エルナ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 443,
             "speaker": "ならず者 ディーター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 678,
             "role": [
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 699,
             "speaker": "ならず者 ディーター",
@@ -83,6 +91,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 701,
             "speaker": "パン屋 オットー",
@@ -95,6 +104,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 702,
             "speaker": "神父 ジムゾン",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 703,
             "speaker": "仕立て屋 エルナ",
@@ -119,6 +130,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 715,
             "speaker": "旅人 ニコラス",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 919,
             "speaker": "仕立て屋 エルナ",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 920,
             "speaker": "神父 ジムゾン",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 921,
             "speaker": "ならず者 ディーター",
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 1081,
             "role": [
@@ -173,6 +189,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 1081,
             "role": [
@@ -182,6 +199,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1083,
             "speaker": "ならず者 ディーター",
@@ -194,6 +212,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1084,
             "speaker": "仕立て屋 エルナ",
@@ -206,6 +225,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1209,
             "speaker": "仕立て屋 エルナ",
@@ -218,6 +238,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1210,
             "speaker": "ならず者 ディーター",
@@ -230,6 +251,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1299,
             "speaker": "仕立て屋 エルナ",
@@ -242,6 +264,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 7,
             "id": 1324,
             "role": [
@@ -251,6 +274,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1325,
             "role": [
@@ -260,6 +284,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1326,
             "role": [

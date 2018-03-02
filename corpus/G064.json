@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 78,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 91,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 102,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 113,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 113,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 116,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 237,
             "speaker": "神父 ジムゾン",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 238,
             "speaker": "仕立て屋 エルナ",
@@ -80,6 +88,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 391,
             "role": [
@@ -89,6 +98,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 391,
             "role": [
@@ -98,6 +108,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 394,
             "speaker": "村長 ヴァルター",
@@ -110,6 +121,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 395,
             "speaker": "仕立て屋 エルナ",
@@ -122,6 +134,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 396,
             "speaker": "神父 ジムゾン",
@@ -134,6 +147,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 539,
             "speaker": "神父 ジムゾン",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 540,
             "speaker": "仕立て屋 エルナ",
@@ -158,6 +173,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 584,
             "role": [
@@ -167,6 +183,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 584,
             "speaker": "行商人 アルビン",
@@ -178,6 +195,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 619,
             "role": [
@@ -187,6 +205,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 620,
             "speaker": "青年 ヨアヒム",
@@ -196,6 +215,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 622,
             "role": [
@@ -205,6 +225,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 654,
             "speaker": "青年 ヨアヒム",
@@ -214,6 +235,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 656,
             "speaker": "仕立て屋 エルナ",
@@ -226,6 +248,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 833,
             "role": [

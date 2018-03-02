@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 247,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 250,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 252,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 301,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 345,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 484,
             "speaker": "木こり トーマス",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 487,
             "speaker": "農夫 ヤコブ",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 488,
             "speaker": "少女 リーザ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 489,
             "speaker": "旅人 ニコラス",
@@ -95,6 +104,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 509,
             "role": [
@@ -104,6 +114,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 741,
             "role": [
@@ -113,6 +124,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 746,
             "role": [
@@ -122,6 +134,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 758,
             "speaker": "木こり トーマス",
@@ -134,6 +147,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 759,
             "speaker": "農夫 ヤコブ",
@@ -146,6 +160,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 780,
             "speaker": "シスター フリーデル",
@@ -158,6 +173,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 781,
             "speaker": "旅人 ニコラス",
@@ -170,6 +186,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 938,
             "speaker": "旅人 ニコラス",
@@ -182,6 +199,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 939,
             "speaker": "農夫 ヤコブ",
@@ -194,6 +212,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 940,
             "speaker": "シスター フリーデル",
@@ -206,6 +225,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1105,
             "speaker": "農夫 ヤコブ",

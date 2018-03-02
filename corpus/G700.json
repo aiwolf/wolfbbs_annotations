@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 138,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 146,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 170,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 359,
             "speaker": "少女 リーザ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 361,
             "speaker": "村娘 パメラ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 602,
             "speaker": "少女 リーザ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 607,
             "speaker": "木こり トーマス",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 775,
             "speaker": "少女 リーザ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 782,
             "speaker": "木こり トーマス",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 931,
             "speaker": "木こり トーマス",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1031,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1031,
             "speaker": "行商人 アルビン",
@@ -131,6 +143,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1031,
             "speaker": "行商人 アルビン",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1033,
             "speaker": "木こり トーマス",

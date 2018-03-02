@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 174,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 240,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 274,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 566,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 596,
             "speaker": "少年 ペーター",
@@ -50,6 +55,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 597,
             "speaker": "シスター フリーデル",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "発言ID406で結果だけ発表済み",
             "day": 3,
             "id": 599,
             "speaker": "老人 モーリッツ",
@@ -76,6 +83,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 760,
             "speaker": "少年 ペーター",
@@ -88,6 +96,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 761,
             "speaker": "シスター フリーデル",
@@ -100,6 +109,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 925,
             "speaker": "シスター フリーデル",
@@ -112,6 +122,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 926,
             "speaker": "少年 ペーター",
@@ -124,6 +135,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1030,
             "speaker": "シスター フリーデル",
@@ -136,6 +148,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1136,
             "speaker": "シスター フリーデル",

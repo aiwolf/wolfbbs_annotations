@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 205,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 208,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 216,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 336,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 337,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 373,
             "speaker": "老人 モーリッツ",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 374,
             "speaker": "村長 ヴァルター",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 375,
             "speaker": "ならず者 ディーター",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 623,
             "speaker": "村長 ヴァルター",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 625,
             "speaker": "老人 モーリッツ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 627,
             "speaker": "木こり トーマス",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 641,
             "speaker": "ならず者 ディーター",
@@ -131,6 +143,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 830,
             "speaker": "ならず者 ディーター",
@@ -143,6 +156,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 832,
             "speaker": "木こり トーマス",
@@ -155,6 +169,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 966,
             "speaker": "ならず者 ディーター",
@@ -167,6 +182,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 968,
             "speaker": "木こり トーマス",
@@ -179,6 +195,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1095,
             "speaker": "ならず者 ディーター",
@@ -191,6 +208,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1096,
             "speaker": "木こり トーマス",
@@ -203,6 +221,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1196,
             "speaker": "ならず者 ディーター",
@@ -215,6 +234,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1201,
             "role": [
@@ -224,6 +244,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1202,
             "speaker": "農夫 ヤコブ",
@@ -236,6 +257,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 7,
             "id": 1223,
             "role": [
@@ -245,6 +267,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1223,
             "role": [
@@ -254,6 +277,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1279,
             "speaker": "農夫 ヤコブ",

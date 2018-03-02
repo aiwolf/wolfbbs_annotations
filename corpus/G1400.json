@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 117,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 124,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 135,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 143,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 353,
             "speaker": "老人 モーリッツ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 354,
             "speaker": "仕立て屋 エルナ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 355,
             "speaker": "村娘 パメラ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 610,
             "speaker": "老人 モーリッツ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 611,
             "speaker": "村娘 パメラ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 612,
             "speaker": "少女 リーザ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 825,
             "speaker": "少女 リーザ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 834,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 961,
             "speaker": "少女 リーザ",
@@ -143,6 +156,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1095,
             "speaker": "少女 リーザ",
@@ -155,6 +169,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1208,
             "role": [
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 1212,
             "role": [
@@ -173,6 +189,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1213,
             "role": [
@@ -182,6 +199,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1213,
             "speaker": "旅人 ニコラス",
@@ -192,6 +210,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1216,
             "speaker": "少女 リーザ",
@@ -204,6 +223,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 8,
             "id": 1322,
             "speaker": "少女 リーザ",

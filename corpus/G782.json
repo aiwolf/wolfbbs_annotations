@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 209,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 212,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 221,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 470,
             "speaker": "村長 ヴァルター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 471,
             "speaker": "神父 ジムゾン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 733,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 735,
             "speaker": "村長 ヴァルター",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 736,
             "speaker": "司書 クララ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 931,
             "speaker": "神父 ジムゾン",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 934,
             "speaker": "司書 クララ",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 941,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1068,
             "speaker": "司書 クララ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1070,
             "speaker": "神父 ジムゾン",
@@ -146,6 +159,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1071,
             "role": [
@@ -155,6 +169,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1077,
             "speaker": "シスター フリーデル",
@@ -165,6 +180,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1206,
             "speaker": "神父 ジムゾン",
@@ -177,6 +193,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1208,
             "speaker": "司書 クララ",
@@ -189,6 +206,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1295,
             "speaker": "司書 クララ",

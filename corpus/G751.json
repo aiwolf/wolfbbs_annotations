@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 119,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 134,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "ギドラCO",
             "day": 1,
             "id": 145,
             "role": [
@@ -30,6 +33,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 166,
             "role": [
@@ -39,6 +43,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 182,
             "role": [
@@ -48,6 +53,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 188,
             "role": [
@@ -57,6 +63,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 336,
             "speaker": "旅人 ニコラス",
@@ -69,6 +76,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 337,
             "speaker": "羊飼い カタリナ",
@@ -81,6 +89,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 546,
             "speaker": "村長 ヴァルター",
@@ -93,6 +102,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 547,
             "speaker": "羊飼い カタリナ",
@@ -105,6 +115,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 548,
             "speaker": "旅人 ニコラス",
@@ -117,6 +128,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 765,
             "speaker": "旅人 ニコラス",
@@ -129,6 +141,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 767,
             "speaker": "羊飼い カタリナ",
@@ -141,6 +154,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 771,
             "speaker": "村長 ヴァルター",
@@ -153,6 +167,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 930,
             "speaker": "旅人 ニコラス",
@@ -165,6 +180,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 934,
             "speaker": "村長 ヴァルター",
@@ -177,6 +193,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1054,
             "speaker": "旅人 ニコラス",
@@ -189,6 +206,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1059,
             "speaker": "村長 ヴァルター",
@@ -201,6 +219,7 @@
         },
         {
             "action": "占い結果撤回",
+            "comment": "結果訂正",
             "day": 6,
             "id": 1095,
             "speaker": "旅人 ニコラス",
@@ -213,6 +232,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1095,
             "speaker": "旅人 ニコラス",
@@ -225,6 +245,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1106,
             "role": [

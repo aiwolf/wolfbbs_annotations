@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 46,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 48,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 53,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 61,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 66,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 66,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 109,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 248,
             "speaker": "農夫 ヤコブ",
@@ -77,6 +85,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 249,
             "speaker": "ならず者 ディーター",
@@ -89,6 +98,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 420,
             "role": [
@@ -98,6 +108,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 420,
             "role": [
@@ -107,6 +118,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 422,
             "speaker": "農夫 ヤコブ",
@@ -119,6 +131,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 423,
             "speaker": "ならず者 ディーター",
@@ -131,6 +144,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 424,
             "speaker": "パン屋 オットー",
@@ -143,6 +157,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 427,
             "speaker": "司書 クララ",
@@ -155,6 +170,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 433,
             "speaker": "パン屋 オットー",
@@ -167,6 +183,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 554,
             "speaker": "農夫 ヤコブ",
@@ -179,6 +196,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 555,
             "speaker": "ならず者 ディーター",
@@ -191,6 +209,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 556,
             "speaker": "パン屋 オットー",
@@ -203,6 +222,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 694,
             "speaker": "農夫 ヤコブ",
@@ -215,6 +235,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 695,
             "speaker": "ならず者 ディーター",
@@ -227,6 +248,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 708,
             "role": [
@@ -236,6 +258,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 708,
             "speaker": "シスター フリーデル",
@@ -246,6 +269,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 744,
             "speaker": "農夫 ヤコブ",
@@ -258,6 +282,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 806,
             "speaker": "農夫 ヤコブ",

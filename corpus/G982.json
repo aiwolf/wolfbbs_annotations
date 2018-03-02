@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 211,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 241,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 241,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 285,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 445,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 445,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 445,
             "speaker": "司書 クララ",
@@ -77,6 +85,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 446,
             "speaker": "パン屋 オットー",
@@ -89,6 +98,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 684,
             "role": [
@@ -98,6 +108,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 714,
             "speaker": "司書 クララ",
@@ -110,6 +121,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 715,
             "speaker": "パン屋 オットー",
@@ -122,6 +134,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 720,
             "speaker": "行商人 アルビン",
@@ -134,6 +147,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 924,
             "speaker": "司書 クララ",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 925,
             "speaker": "パン屋 オットー",
@@ -158,6 +173,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 927,
             "speaker": "行商人 アルビン",
@@ -170,6 +186,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1093,
             "speaker": "パン屋 オットー",
@@ -182,6 +199,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1094,
             "speaker": "行商人 アルビン",
@@ -194,6 +212,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1255,
             "speaker": "行商人 アルビン",
@@ -206,6 +225,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1393,
             "speaker": "行商人 アルビン",
@@ -218,6 +238,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 1494,
             "role": [
@@ -227,6 +248,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1494,
             "speaker": "少年 ペーター",
@@ -237,6 +259,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1504,
             "speaker": "少年 ペーター",

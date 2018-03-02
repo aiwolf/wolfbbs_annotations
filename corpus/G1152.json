@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 71,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 73,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 74,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 75,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 104,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 116,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 269,
             "speaker": "行商人 アルビン",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 270,
             "speaker": "ならず者 ディーター",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 271,
             "speaker": "旅人 ニコラス",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 457,
             "speaker": "行商人 アルビン",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 458,
             "speaker": "旅人 ニコラス",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 459,
             "speaker": "ならず者 ディーター",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 582,
             "speaker": "行商人 アルビン",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 583,
             "speaker": "旅人 ニコラス",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 692,
             "speaker": "行商人 アルビン",
@@ -164,6 +179,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 693,
             "speaker": "旅人 ニコラス",
@@ -176,6 +192,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 723,
             "role": [
@@ -185,6 +202,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 738,
             "role": [
@@ -194,6 +212,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 740,
             "role": [
@@ -203,6 +222,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 742,
             "role": [
@@ -212,6 +232,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 754,
             "role": [
@@ -221,6 +242,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 754,
             "speaker": "司書 クララ",
@@ -231,6 +253,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 772,
             "role": [
@@ -240,6 +263,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 778,
             "speaker": "旅人 ニコラス",
@@ -252,6 +276,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 782,
             "role": [
@@ -261,6 +286,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 788,
             "role": [
@@ -270,6 +296,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 796,
             "role": [

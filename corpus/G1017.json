@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 217,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 218,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 230,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 461,
             "speaker": "旅人 ニコラス",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 462,
             "speaker": "羊飼い カタリナ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 495,
             "speaker": "仕立て屋 エルナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 702,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 707,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 709,
             "role": [
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 711,
             "speaker": "仕立て屋 エルナ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 712,
             "speaker": "旅人 ニコラス",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 713,
             "speaker": "羊飼い カタリナ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 714,
             "role": [
@@ -137,6 +150,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 715,
             "speaker": "行商人 アルビン",
@@ -149,6 +163,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 910,
             "speaker": "旅人 ニコラス",
@@ -161,6 +176,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 911,
             "speaker": "羊飼い カタリナ",
@@ -173,6 +189,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 912,
             "speaker": "行商人 アルビン",
@@ -185,6 +202,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1096,
             "speaker": "旅人 ニコラス",
@@ -197,6 +215,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1097,
             "speaker": "羊飼い カタリナ",
@@ -209,6 +228,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1098,
             "speaker": "行商人 アルビン",
@@ -221,6 +241,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1117,
             "role": [
@@ -230,6 +251,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1117,
             "speaker": "負傷兵 シモン",
@@ -240,6 +262,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1255,
             "speaker": "羊飼い カタリナ",

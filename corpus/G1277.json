@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 191,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 257,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 286,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 298,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 413,
             "speaker": "ならず者 ディーター",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 414,
             "speaker": "青年 ヨアヒム",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 415,
             "speaker": "村娘 パメラ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 632,
             "speaker": "青年 ヨアヒム",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 633,
             "speaker": "ならず者 ディーター",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 634,
             "speaker": "村娘 パメラ",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 635,
             "speaker": "羊飼い カタリナ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 840,
             "speaker": "青年 ヨアヒム",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 841,
             "speaker": "ならず者 ディーター",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 843,
             "speaker": "羊飼い カタリナ",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1000,
             "speaker": "ならず者 ディーター",
@@ -170,6 +185,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1003,
             "role": [
@@ -179,6 +195,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1003,
             "speaker": "司書 クララ",
@@ -188,6 +205,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1006,
             "speaker": "青年 ヨアヒム",
@@ -200,6 +218,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1008,
             "speaker": "羊飼い カタリナ",
@@ -212,6 +231,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1122,
             "speaker": "羊飼い カタリナ",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1124,
             "speaker": "青年 ヨアヒム",
@@ -236,6 +257,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1124,
             "role": [

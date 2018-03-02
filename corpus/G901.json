@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 162,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 171,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 172,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 408,
             "speaker": "仕立て屋 エルナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 409,
             "speaker": "神父 ジムゾン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 617,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 618,
             "speaker": "旅人 ニコラス",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 806,
             "speaker": "神父 ジムゾン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 810,
             "speaker": "旅人 ニコラス",
@@ -101,6 +110,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 994,
             "speaker": "神父 ジムゾン",
@@ -113,6 +123,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 999,
             "speaker": "旅人 ニコラス",
@@ -125,6 +136,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 8,
             "id": 1427,
             "role": [
@@ -134,6 +146,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 8,
             "id": 1427,
             "speaker": "村娘 パメラ",

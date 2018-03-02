@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 111,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 117,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 122,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 159,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 322,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 325,
             "speaker": "少女 リーザ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 482,
             "role": [
@@ -71,6 +78,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 518,
             "speaker": "羊飼い カタリナ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 519,
             "speaker": "村娘 パメラ",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 522,
             "speaker": "少女 リーザ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 525,
             "speaker": "青年 ヨアヒム",
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 648,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 648,
             "speaker": "老人 モーリッツ",
@@ -137,6 +150,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 679,
             "speaker": "羊飼い カタリナ",
@@ -149,6 +163,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 680,
             "speaker": "青年 ヨアヒム",
@@ -161,6 +176,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 681,
             "speaker": "少女 リーザ",
@@ -173,6 +189,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 778,
             "speaker": "少女 リーザ",

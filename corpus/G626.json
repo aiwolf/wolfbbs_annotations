@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 196,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 197,
             "role": [
@@ -21,6 +23,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 197,
             "role": [
@@ -30,6 +33,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 198,
             "role": [
@@ -39,6 +43,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 199,
             "role": [
@@ -48,6 +53,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 200,
             "role": [
@@ -57,6 +63,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 201,
             "role": [
@@ -66,6 +73,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 202,
             "role": [
@@ -75,6 +83,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 205,
             "role": [
@@ -85,6 +94,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 205,
             "role": [
@@ -94,6 +104,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 206,
             "role": [
@@ -103,6 +114,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 207,
             "role": [
@@ -112,6 +124,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 208,
             "role": [
@@ -121,6 +134,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 209,
             "role": [
@@ -130,6 +144,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 210,
             "role": [
@@ -139,6 +154,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 218,
             "role": [
@@ -148,6 +164,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 237,
             "role": [
@@ -157,6 +174,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 271,
             "role": [
@@ -166,6 +184,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 301,
             "role": [
@@ -175,6 +194,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 325,
             "role": [
@@ -184,6 +204,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 325,
             "role": [
@@ -193,6 +214,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 333,
             "role": [
@@ -202,6 +224,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 441,
             "speaker": "青年 ヨアヒム",
@@ -214,6 +237,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 442,
             "speaker": "ならず者 ディーター",
@@ -226,6 +250,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 671,
             "role": [
@@ -235,6 +260,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 679,
             "speaker": "ならず者 ディーター",
@@ -247,6 +273,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 681,
             "speaker": "村長 ヴァルター",
@@ -259,6 +286,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "全員狩人COしていてこれが本当に必要な情報か分かりませんが一応。",
             "day": 3,
             "id": 860,
             "role": [
@@ -268,6 +296,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 873,
             "speaker": "ならず者 ディーター",
@@ -280,6 +309,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 874,
             "speaker": "村長 ヴァルター",
@@ -292,6 +322,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 1023,
             "role": [
@@ -301,6 +332,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 1037,
             "speaker": "負傷兵 シモン",
@@ -310,6 +342,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 1052,
             "role": [
@@ -319,6 +352,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 1052,
             "speaker": "少年 ペーター",
@@ -335,6 +369,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1054,
             "speaker": "村長 ヴァルター",
@@ -347,6 +382,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1088,
             "role": [
@@ -356,6 +392,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1100,
             "role": [
@@ -365,6 +402,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1108,
             "role": [
@@ -374,6 +412,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1155,
             "speaker": "村長 ヴァルター",
@@ -386,6 +425,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1252,
             "speaker": "村長 ヴァルター",

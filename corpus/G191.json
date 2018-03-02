@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 105,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 108,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 109,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 242,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 242,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 247,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 252,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 266,
             "role": [
@@ -74,6 +82,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 337,
             "speaker": "羊飼い カタリナ",
@@ -86,6 +95,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 338,
             "speaker": "村娘 パメラ",
@@ -98,6 +108,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 597,
             "speaker": "村娘 パメラ",
@@ -110,6 +121,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 599,
             "speaker": "シスター フリーデル",
@@ -122,6 +134,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 600,
             "speaker": "負傷兵 シモン",
@@ -134,6 +147,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 821,
             "speaker": "シスター フリーデル",
@@ -146,6 +160,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 822,
             "speaker": "負傷兵 シモン",
@@ -158,6 +173,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1017,
             "speaker": "負傷兵 シモン",
@@ -170,6 +186,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1018,
             "speaker": "シスター フリーデル",
@@ -182,6 +199,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1168,
             "speaker": "シスター フリーデル",
@@ -194,6 +212,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1286,
             "speaker": "シスター フリーデル",

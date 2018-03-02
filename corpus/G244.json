@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 160,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 196,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 202,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 348,
             "speaker": "老人 モーリッツ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 349,
             "speaker": "青年 ヨアヒム",
@@ -53,6 +58,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 522,
             "speaker": "村娘 パメラ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 523,
             "speaker": "青年 ヨアヒム",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 524,
             "speaker": "老人 モーリッツ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 667,
             "speaker": "青年 ヨアヒム",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 677,
             "speaker": "村娘 パメラ",
@@ -113,6 +123,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 737,
             "role": [
@@ -122,6 +133,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日目",
             "day": 4,
             "id": 737,
             "speaker": "神父 ジムゾン",
@@ -132,6 +144,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 788,
             "speaker": "青年 ヨアヒム",
@@ -144,6 +157,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 790,
             "speaker": "村娘 パメラ",

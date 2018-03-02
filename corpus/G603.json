@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 111,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 112,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 125,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 325,
             "speaker": "少年 ペーター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 326,
             "speaker": "老人 モーリッツ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 327,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 454,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 469,
             "role": [
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 549,
             "speaker": "老人 モーリッツ",
@@ -95,6 +104,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 551,
             "speaker": "シスター フリーデル",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 552,
             "speaker": "神父 ジムゾン",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 736,
             "speaker": "神父 ジムゾン",
@@ -131,6 +143,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 737,
             "speaker": "老人 モーリッツ",
@@ -143,6 +156,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 859,
             "speaker": "神父 ジムゾン",
@@ -155,6 +169,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 991,
             "role": [
@@ -164,6 +179,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 991,
             "speaker": "木こり トーマス",

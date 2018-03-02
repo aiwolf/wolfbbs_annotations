@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 89,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 103,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 122,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 245,
             "speaker": "司書 クララ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 249,
             "speaker": "老人 モーリッツ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 412,
             "speaker": "老人 モーリッツ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 415,
             "speaker": "木こり トーマス",
@@ -77,6 +84,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 447,
             "role": [
@@ -86,6 +94,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 447,
             "speaker": "少女 リーザ",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 518,
             "speaker": "老人 モーリッツ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 524,
             "speaker": "木こり トーマス",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 662,
             "speaker": "老人 モーリッツ",
@@ -131,6 +143,7 @@
         },
         {
             "action": "占い結果撤回",
+            "comment": "",
             "day": 6,
             "id": 681,
             "speaker": "老人 モーリッツ",
@@ -143,6 +156,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 681,
             "speaker": "老人 モーリッツ",
@@ -155,6 +169,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 695,
             "role": [
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 696,
             "role": [

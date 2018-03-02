@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 177,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 236,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 254,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 255,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 427,
             "speaker": "農夫 ヤコブ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 445,
             "speaker": "木こり トーマス",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 684,
             "speaker": "農夫 ヤコブ",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 686,
             "speaker": "ならず者 ディーター",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 687,
             "speaker": "青年 ヨアヒム",
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 922,
             "speaker": "青年 ヨアヒム",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 923,
             "speaker": "ならず者 ディーター",
@@ -122,6 +133,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 938,
             "role": [
@@ -131,6 +143,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 942,
             "speaker": "少年 ペーター",
@@ -140,6 +153,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 943,
             "speaker": "少年 ペーター",
@@ -149,6 +163,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1121,
             "speaker": "青年 ヨアヒム",
@@ -161,6 +176,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1122,
             "speaker": "ならず者 ディーター",
@@ -173,6 +189,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1275,
             "speaker": "青年 ヨアヒム",
@@ -185,6 +202,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1300,
             "speaker": "ならず者 ディーター",
@@ -197,6 +215,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1392,
             "speaker": "青年 ヨアヒム",
@@ -209,6 +228,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1398,
             "speaker": "ならず者 ディーター",
@@ -221,6 +241,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 8,
             "id": 1470,
             "speaker": "青年 ヨアヒム",
@@ -233,6 +254,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 8,
             "id": 1472,
             "role": [
@@ -242,6 +264,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 8,
             "id": 1474,
             "role": [

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 184,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 185,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 198,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 217,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 450,
             "speaker": "司書 クララ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 452,
             "speaker": "シスター フリーデル",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 453,
             "speaker": "少年 ペーター",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 696,
             "speaker": "司書 クララ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 699,
             "speaker": "神父 ジムゾン",
@@ -98,6 +107,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 703,
             "role": [
@@ -107,6 +117,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 703,
             "role": [
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 720,
             "speaker": "少年 ペーター",
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 874,
             "speaker": "神父 ジムゾン",
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 904,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1014,
             "speaker": "神父 ジムゾン",
@@ -161,6 +176,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1116,
             "role": [
@@ -170,6 +186,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1119,
             "role": [
@@ -179,6 +196,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1120,
             "speaker": "ならず者 ディーター",
@@ -188,6 +206,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1126,
             "speaker": "仕立て屋 エルナ",
@@ -197,6 +216,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1136,
             "speaker": "神父 ジムゾン",

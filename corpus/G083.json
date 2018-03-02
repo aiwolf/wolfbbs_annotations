@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 88,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 95,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 96,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 98,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 106,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 108,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 111,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 111,
             "role": [
@@ -74,6 +82,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 114,
             "role": [
@@ -83,6 +92,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -92,6 +102,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 310,
             "speaker": "村娘 パメラ",
@@ -104,6 +115,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 312,
             "speaker": "パン屋 オットー",
@@ -116,6 +128,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 313,
             "speaker": "シスター フリーデル",
@@ -128,6 +141,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 504,
             "speaker": "パン屋 オットー",
@@ -140,6 +154,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 506,
             "speaker": "シスター フリーデル",
@@ -152,6 +167,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 507,
             "speaker": "行商人 アルビン",
@@ -164,6 +180,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 626,
             "speaker": "行商人 アルビン",
@@ -176,6 +193,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 670,
             "role": [
@@ -185,6 +203,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 753,
             "speaker": "行商人 アルビン",
@@ -197,6 +216,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 856,
             "speaker": "行商人 アルビン",
@@ -209,6 +229,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 898,
             "role": [

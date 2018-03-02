@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 90,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 91,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 101,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 296,
             "speaker": "神父 ジムゾン",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 297,
             "speaker": "行商人 アルビン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 469,
             "speaker": "神父 ジムゾン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 473,
             "speaker": "行商人 アルビン",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 475,
             "speaker": "木こり トーマス",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 614,
             "speaker": "神父 ジムゾン",
@@ -101,6 +110,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 615,
             "speaker": "行商人 アルビン",
@@ -113,6 +123,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 732,
             "speaker": "神父 ジムゾン",
@@ -125,6 +136,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 739,
             "speaker": "行商人 アルビン",
@@ -137,6 +149,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 806,
             "speaker": "神父 ジムゾン",
@@ -149,6 +162,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 819,
             "role": [
@@ -158,6 +172,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 819,
             "speaker": "旅人 ニコラス",
@@ -167,6 +182,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 855,
             "role": [

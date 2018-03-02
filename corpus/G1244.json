@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 119,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "ギドラ（占い師or霊能者）CO",
             "day": 1,
             "id": 121,
             "role": [
@@ -21,6 +23,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -30,6 +33,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 155,
             "role": [
@@ -39,6 +43,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 205,
             "role": [
@@ -48,6 +53,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 326,
             "speaker": "行商人 アルビン",
@@ -60,6 +66,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 327,
             "speaker": "シスター フリーデル",
@@ -72,6 +79,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 518,
             "speaker": "シスター フリーデル",
@@ -84,6 +92,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 520,
             "speaker": "羊飼い カタリナ",
@@ -96,6 +105,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 651,
             "speaker": "シスター フリーデル",
@@ -108,6 +118,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 801,
             "role": [
@@ -117,6 +128,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 801,
             "speaker": "老人 モーリッツ",
@@ -126,6 +138,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 802,
             "speaker": "老人 モーリッツ",
@@ -135,6 +148,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 804,
             "role": [
@@ -144,6 +158,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 806,
             "speaker": "村娘 パメラ",
@@ -153,6 +168,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 808,
             "speaker": "村娘 パメラ",
@@ -162,6 +178,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 809,
             "speaker": "村娘 パメラ",
@@ -171,6 +188,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 898,
             "speaker": "村娘 パメラ",

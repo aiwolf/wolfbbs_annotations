@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 109,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 119,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 124,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 188,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 348,
             "speaker": "旅人 ニコラス",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 351,
             "speaker": "宿屋の女主人 レジーナ",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 607,
             "speaker": "宿屋の女主人 レジーナ",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 608,
             "speaker": "旅人 ニコラス",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 2,
             "id": 609,
             "speaker": "パン屋 オットー",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 2,
             "id": 610,
             "speaker": "シスター フリーデル",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 791,
             "speaker": "旅人 ニコラス",
@@ -140,6 +153,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 792,
             "speaker": "宿屋の女主人 レジーナ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 795,
             "speaker": "パン屋 オットー",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 796,
             "speaker": "羊飼い カタリナ",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 947,
             "speaker": "旅人 ニコラス",
@@ -188,6 +205,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 949,
             "speaker": "羊飼い カタリナ",
@@ -200,6 +218,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 958,
             "speaker": "宿屋の女主人 レジーナ",
@@ -212,6 +231,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1065,
             "speaker": "宿屋の女主人 レジーナ",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1067,
             "speaker": "旅人 ニコラス",
@@ -236,6 +257,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1177,
             "role": [
@@ -245,6 +267,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1177,
             "speaker": "少年 ペーター",
@@ -255,6 +278,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1182,
             "role": [
@@ -264,6 +288,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1195,
             "speaker": "宿屋の女主人 レジーナ",
@@ -276,6 +301,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1199,
             "speaker": "旅人 ニコラス",

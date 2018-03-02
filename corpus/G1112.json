@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 82,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 86,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 90,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 126,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 133,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 271,
             "speaker": "農夫 ヤコブ",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 272,
             "speaker": "少女 リーザ",
@@ -71,6 +78,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 419,
             "role": [
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 448,
             "speaker": "少女 リーザ",
@@ -92,6 +101,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 3,
             "id": 449,
             "role": [
@@ -101,6 +111,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 449,
             "role": [
@@ -110,6 +121,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 449,
             "speaker": "農夫 ヤコブ",
@@ -119,6 +131,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 450,
             "speaker": "青年 ヨアヒム",
@@ -131,6 +144,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 563,
             "speaker": "青年 ヨアヒム",
@@ -143,6 +157,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 564,
             "role": [
@@ -152,6 +167,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 564,
             "role": [
@@ -161,6 +177,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 647,
             "role": [
@@ -170,6 +187,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 654,
             "role": [
@@ -179,6 +197,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 710,
             "role": [
@@ -188,6 +207,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 710,
             "role": [

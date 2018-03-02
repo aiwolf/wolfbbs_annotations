@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 93,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 95,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 98,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 325,
             "speaker": "村娘 パメラ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 326,
             "speaker": "少女 リーザ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 345,
             "role": [
@@ -62,6 +68,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 478,
             "role": [
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 531,
             "speaker": "村娘 パメラ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 533,
             "speaker": "シスター フリーデル",
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 548,
             "speaker": "村長 ヴァルター",
@@ -104,6 +114,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 549,
             "speaker": "青年 ヨアヒム",
@@ -113,6 +124,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 695,
             "speaker": "村娘 パメラ",
@@ -125,6 +137,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 696,
             "speaker": "シスター フリーデル",
@@ -134,6 +147,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 698,
             "speaker": "村長 ヴァルター",
@@ -146,6 +160,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 822,
             "speaker": "村娘 パメラ",
@@ -158,6 +173,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 829,
             "speaker": "村長 ヴァルター",
@@ -170,6 +186,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 912,
             "speaker": "村娘 パメラ",
@@ -182,6 +199,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 922,
             "speaker": "村長 ヴァルター",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 142,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 143,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 157,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 383,
             "speaker": "羊飼い カタリナ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 384,
             "speaker": "少女 リーザ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 385,
             "speaker": "シスター フリーデル",
@@ -65,6 +71,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 635,
             "role": [
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 635,
             "speaker": "旅人 ニコラス",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 638,
             "speaker": "少女 リーザ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 645,
             "speaker": "シスター フリーデル",
@@ -110,6 +120,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 842,
             "speaker": "少女 リーザ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 843,
             "speaker": "シスター フリーデル",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 844,
             "speaker": "羊飼い カタリナ",
@@ -146,6 +159,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 845,
             "speaker": "旅人 ニコラス",
@@ -158,6 +172,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1026,
             "speaker": "少女 リーザ",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1027,
             "speaker": "羊飼い カタリナ",
@@ -182,6 +198,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1028,
             "speaker": "旅人 ニコラス",
@@ -194,6 +211,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1035,
             "speaker": "シスター フリーデル",
@@ -206,6 +224,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1036,
             "role": [
@@ -215,6 +234,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1037,
             "speaker": "パン屋 オットー",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1170,
             "speaker": "羊飼い カタリナ",
@@ -236,6 +257,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1171,
             "speaker": "旅人 ニコラス",
@@ -248,6 +270,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1174,
             "speaker": "シスター フリーデル",
@@ -260,6 +283,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 1174,
             "role": [

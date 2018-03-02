@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 114,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 120,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 122,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 177,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 356,
             "speaker": "パン屋 オットー",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 358,
             "speaker": "農夫 ヤコブ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 523,
             "role": [
@@ -71,6 +78,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 567,
             "role": [
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 585,
             "speaker": "パン屋 オットー",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 586,
             "speaker": "農夫 ヤコブ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 591,
             "speaker": "シスター フリーデル",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 809,
             "speaker": "農夫 ヤコブ",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 810,
             "speaker": "パン屋 オットー",
@@ -140,6 +153,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 823,
             "role": [
@@ -149,6 +163,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 823,
             "speaker": "村娘 パメラ",
@@ -159,6 +174,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 923,
             "role": [
@@ -168,6 +184,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 923,
             "speaker": "少年 ペーター",
@@ -177,6 +194,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1006,
             "speaker": "パン屋 オットー",
@@ -189,6 +207,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1007,
             "speaker": "農夫 ヤコブ",
@@ -201,6 +220,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1166,
             "speaker": "パン屋 オットー",

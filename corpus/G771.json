@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 185,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 186,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 237,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 458,
             "speaker": "負傷兵 シモン",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 459,
             "speaker": "村長 ヴァルター",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 487,
             "speaker": "農夫 ヤコブ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 739,
             "speaker": "農夫 ヤコブ",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 741,
             "speaker": "村長 ヴァルター",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 746,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 746,
             "speaker": "旅人 ニコラス",
@@ -110,6 +120,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 4,
             "id": 964,
             "role": [
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 964,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 965,
             "speaker": "旅人 ニコラス",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1159,
             "speaker": "旅人 ニコラス",
@@ -152,6 +166,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1167,
             "role": [
@@ -161,6 +176,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1167,
             "speaker": "村娘 パメラ",
@@ -171,6 +187,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1270,
             "speaker": "旅人 ニコラス",
@@ -183,6 +200,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1282,
             "speaker": "村娘 パメラ",
@@ -192,6 +210,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 1377,
             "speaker": "村娘 パメラ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 158,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 185,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 401,
             "speaker": "ならず者 ディーター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 402,
             "speaker": "羊飼い カタリナ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 658,
             "speaker": "羊飼い カタリナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 659,
             "speaker": "ならず者 ディーター",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 661,
             "speaker": "パン屋 オットー",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 861,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 862,
             "speaker": "少女 リーザ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 891,
             "speaker": "ならず者 ディーター",
@@ -119,6 +130,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 893,
             "speaker": "羊飼い カタリナ",
@@ -131,6 +143,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 894,
             "speaker": "パン屋 オットー",
@@ -143,6 +156,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 906,
             "speaker": "少女 リーザ",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1071,
             "speaker": "ならず者 ディーター",
@@ -164,6 +179,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1072,
             "speaker": "羊飼い カタリナ",
@@ -176,6 +192,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1073,
             "speaker": "パン屋 オットー",
@@ -188,6 +205,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1094,
             "role": [
@@ -197,6 +215,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1096,
             "speaker": "青年 ヨアヒム",
@@ -206,6 +225,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1099,
             "speaker": "青年 ヨアヒム",
@@ -215,6 +235,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1230,
             "speaker": "羊飼い カタリナ",
@@ -227,6 +248,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1231,
             "speaker": "パン屋 オットー",
@@ -239,6 +261,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1240,
             "speaker": "ならず者 ディーター",
@@ -251,6 +274,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 7,
             "id": 1328,
             "speaker": "羊飼い カタリナ",
@@ -263,6 +287,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 7,
             "id": 1329,
             "speaker": "パン屋 オットー",

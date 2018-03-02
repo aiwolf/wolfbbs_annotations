@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 143,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 145,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 168,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 399,
             "speaker": "少年 ペーター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 400,
             "speaker": "旅人 ニコラス",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 658,
             "speaker": "少年 ペーター",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 659,
             "speaker": "旅人 ニコラス",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 661,
             "speaker": "農夫 ヤコブ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 909,
             "speaker": "旅人 ニコラス",
@@ -101,6 +110,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 911,
             "speaker": "農夫 ヤコブ",
@@ -113,6 +123,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1109,
             "speaker": "旅人 ニコラス",
@@ -125,6 +136,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1111,
             "speaker": "農夫 ヤコブ",
@@ -137,6 +149,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 1177,
             "role": [
@@ -146,6 +159,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 5,
             "id": 1177,
             "speaker": "羊飼い カタリナ",
@@ -155,6 +169,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1286,
             "speaker": "旅人 ニコラス",
@@ -167,6 +182,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1289,
             "speaker": "農夫 ヤコブ",

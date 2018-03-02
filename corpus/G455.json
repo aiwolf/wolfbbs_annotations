@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 83,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 93,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 140,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 283,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 283,
             "speaker": "青年 ヨアヒム",
@@ -50,6 +55,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 324,
             "role": [
@@ -59,6 +65,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 333,
             "role": [
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 333,
             "speaker": "木こり トーマス",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 496,
             "speaker": "青年 ヨアヒム",
@@ -92,6 +101,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 498,
             "speaker": "村娘 パメラ",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 500,
             "speaker": "負傷兵 シモン",
@@ -116,6 +127,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 501,
             "speaker": "木こり トーマス",
@@ -128,6 +140,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 686,
             "speaker": "青年 ヨアヒム",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 687,
             "speaker": "負傷兵 シモン",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 688,
             "speaker": "木こり トーマス",
@@ -164,6 +179,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 689,
             "speaker": "村娘 パメラ",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 792,
             "speaker": "青年 ヨアヒム",
@@ -188,6 +205,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 793,
             "speaker": "木こり トーマス",
@@ -200,6 +218,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 796,
             "speaker": "負傷兵 シモン",
@@ -212,6 +231,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 804,
             "speaker": "村娘 パメラ",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 911,
             "speaker": "木こり トーマス",
@@ -236,6 +257,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 913,
             "speaker": "青年 ヨアヒム",
@@ -248,6 +270,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 920,
             "role": [
@@ -257,6 +280,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 920,
             "speaker": "神父 ジムゾン",
@@ -266,6 +290,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 924,
             "role": [
@@ -275,6 +300,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 945,
             "speaker": "村娘 パメラ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 57,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 58,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 60,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 84,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 85,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 305,
             "speaker": "ならず者 ディーター",
@@ -59,6 +65,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 306,
             "speaker": "村長 ヴァルター",
@@ -71,6 +78,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 307,
             "speaker": "羊飼い カタリナ",
@@ -83,6 +91,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 560,
             "speaker": "村長 ヴァルター",
@@ -95,6 +104,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 561,
             "speaker": "ならず者 ディーター",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 562,
             "speaker": "羊飼い カタリナ",
@@ -119,6 +130,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 734,
             "role": [
@@ -128,6 +140,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 734,
             "speaker": "司書 クララ",
@@ -137,6 +150,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 797,
             "speaker": "ならず者 ディーター",
@@ -149,6 +163,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 798,
             "speaker": "村長 ヴァルター",
@@ -161,6 +176,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 799,
             "speaker": "羊飼い カタリナ",
@@ -173,6 +189,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 800,
             "speaker": "ならず者 ディーター",
@@ -185,6 +202,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 980,
             "speaker": "ならず者 ディーター",
@@ -197,6 +215,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 982,
             "speaker": "羊飼い カタリナ",
@@ -209,6 +228,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 5,
             "id": 983,
             "role": [
@@ -218,6 +238,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 983,
             "speaker": "少女 リーザ",
@@ -234,6 +255,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1094,
             "speaker": "ならず者 ディーター",

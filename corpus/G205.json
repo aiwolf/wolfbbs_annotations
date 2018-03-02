@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 108,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 126,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 133,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 263,
             "speaker": "ならず者 ディーター",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 267,
             "speaker": "負傷兵 シモン",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 430,
             "speaker": "負傷兵 シモン",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 433,
             "speaker": "神父 ジムゾン",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 551,
             "speaker": "負傷兵 シモン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 552,
             "speaker": "神父 ジムゾン",
@@ -101,6 +110,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 651,
             "speaker": "負傷兵 シモン",
@@ -113,6 +123,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 652,
             "speaker": "神父 ジムゾン",
@@ -125,6 +136,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 721,
             "speaker": "神父 ジムゾン",
@@ -137,6 +149,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 722,
             "role": [
@@ -146,6 +159,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 722,
             "role": [
@@ -155,6 +169,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 724,
             "role": [
@@ -164,6 +179,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 724,
             "role": [
@@ -173,6 +189,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 724,
             "speaker": "負傷兵 シモン",

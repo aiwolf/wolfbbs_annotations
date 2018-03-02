@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 87,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 91,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 96,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 194,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 194,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 342,
             "speaker": "木こり トーマス",
@@ -68,6 +75,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 344,
             "speaker": "シスター フリーデル",
@@ -80,6 +88,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 594,
             "speaker": "シスター フリーデル",
@@ -92,6 +101,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 596,
             "speaker": "木こり トーマス",
@@ -104,6 +114,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 597,
             "speaker": "負傷兵 シモン",
@@ -116,6 +127,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 598,
             "speaker": "ならず者 ディーター",
@@ -128,6 +140,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 814,
             "speaker": "ならず者 ディーター",
@@ -140,6 +153,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 817,
             "speaker": "負傷兵 シモン",
@@ -152,6 +166,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 819,
             "speaker": "シスター フリーデル",
@@ -164,6 +179,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 820,
             "speaker": "木こり トーマス",
@@ -176,6 +192,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 998,
             "speaker": "木こり トーマス",
@@ -188,6 +205,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 999,
             "speaker": "シスター フリーデル",
@@ -200,6 +218,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 1000,
             "speaker": "ならず者 ディーター",
@@ -212,6 +231,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1135,
             "speaker": "シスター フリーデル",
@@ -224,6 +244,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1136,
             "speaker": "木こり トーマス",
@@ -236,6 +257,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1139,
             "role": [
@@ -245,6 +267,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1139,
             "speaker": "老人 モーリッツ",
@@ -254,6 +277,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1144,
             "speaker": "老人 モーリッツ",
@@ -263,6 +287,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1146,
             "role": [
@@ -272,6 +297,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1146,
             "speaker": "行商人 アルビン",
@@ -281,6 +307,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1158,
             "speaker": "行商人 アルビン",
@@ -291,6 +318,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1161,
             "speaker": "行商人 アルビン",
@@ -300,6 +328,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1163,
             "speaker": "行商人 アルビン",
@@ -309,6 +338,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1190,
             "speaker": "老人 モーリッツ",
@@ -318,6 +348,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1191,
             "speaker": "老人 モーリッツ",
@@ -327,6 +358,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1193,
             "speaker": "老人 モーリッツ",

@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 144,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 147,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 168,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 359,
             "speaker": "少女 リーザ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 360,
             "speaker": "村娘 パメラ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 598,
             "speaker": "村娘 パメラ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 600,
             "speaker": "少女 リーザ",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 603,
             "speaker": "神父 ジムゾン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 791,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 791,
             "speaker": "老人 モーリッツ",
@@ -107,6 +117,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 807,
             "role": [
@@ -116,6 +127,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 807,
             "speaker": "シスター フリーデル",
@@ -125,6 +137,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 834,
             "speaker": "村娘 パメラ",
@@ -137,6 +150,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 836,
             "speaker": "少女 リーザ",
@@ -149,6 +163,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 4,
             "id": 838,
             "speaker": "シスター フリーデル",
@@ -158,6 +173,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 1030,
             "speaker": "村娘 パメラ",
@@ -170,6 +186,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 5,
             "id": 1035,
             "role": [
@@ -179,6 +196,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1238,
             "role": [
@@ -188,6 +206,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 6,
             "id": 1239,
             "role": [
@@ -197,6 +216,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1240,
             "role": [

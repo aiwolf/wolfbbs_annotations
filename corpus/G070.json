@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 121,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 127,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 130,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 132,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 134,
             "role": [
@@ -47,6 +52,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 134,
             "role": [
@@ -56,6 +62,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 135,
             "role": [
@@ -65,6 +72,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 142,
             "role": [
@@ -74,6 +82,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 142,
             "role": [
@@ -83,6 +92,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -92,6 +102,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 1,
             "id": 165,
             "role": [
@@ -101,6 +112,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 165,
             "role": [
@@ -110,6 +122,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 221,
             "role": [
@@ -119,6 +132,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 288,
             "role": [
@@ -128,6 +142,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 336,
             "speaker": "負傷兵 シモン",
@@ -140,6 +155,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 337,
             "speaker": "少年 ペーター",
@@ -152,6 +168,7 @@
         },
         {
             "action": "CO撤回",
+            "comment": "",
             "day": 2,
             "id": 349,
             "role": [
@@ -161,6 +178,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 559,
             "speaker": "少女 リーザ",
@@ -173,6 +191,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 560,
             "speaker": "少年 ペーター",
@@ -185,6 +204,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 561,
             "speaker": "負傷兵 シモン",
@@ -197,6 +217,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 587,
             "speaker": "パン屋 オットー",
@@ -209,6 +230,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 713,
             "speaker": "パン屋 オットー",
@@ -221,6 +243,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 716,
             "speaker": "少年 ペーター",
@@ -233,6 +256,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 799,
             "speaker": "少年 ペーター",

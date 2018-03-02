@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 111,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 129,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 151,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 291,
             "speaker": "パン屋 オットー",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 315,
             "speaker": "羊飼い カタリナ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 465,
             "speaker": "羊飼い カタリナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 467,
             "speaker": "パン屋 オットー",
@@ -77,6 +84,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 475,
             "speaker": "行商人 アルビン",
@@ -89,6 +97,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 3,
             "id": 485,
             "role": [
@@ -98,6 +107,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 3,
             "id": 486,
             "speaker": "ならず者 ディーター",
@@ -107,6 +117,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 624,
             "speaker": "パン屋 オットー",
@@ -119,6 +130,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 628,
             "speaker": "行商人 アルビン",
@@ -131,6 +143,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 4,
             "id": 634,
             "role": [
@@ -140,6 +153,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "2日目",
             "day": 4,
             "id": 634,
             "speaker": "負傷兵 シモン",
@@ -150,6 +164,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 674,
             "speaker": "羊飼い カタリナ",
@@ -162,6 +177,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 748,
             "speaker": "パン屋 オットー",
@@ -174,6 +190,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 749,
             "speaker": "行商人 アルビン",
@@ -186,6 +203,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 830,
             "speaker": "パン屋 オットー",
@@ -198,6 +216,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 838,
             "speaker": "行商人 アルビン",

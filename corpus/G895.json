@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 115,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 141,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 2,
             "id": 277,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 277,
             "speaker": "少女 リーザ",
@@ -41,6 +45,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 375,
             "speaker": "仕立て屋 エルナ",
@@ -53,6 +58,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 471,
             "speaker": "仕立て屋 エルナ",
@@ -65,6 +71,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 480,
             "speaker": "神父 ジムゾン",
@@ -77,6 +84,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 497,
             "speaker": "少女 リーザ",
@@ -89,6 +97,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 635,
             "speaker": "少女 リーザ",
@@ -101,6 +110,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 636,
             "speaker": "仕立て屋 エルナ",
@@ -113,6 +123,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 637,
             "speaker": "神父 ジムゾン",
@@ -125,6 +136,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 771,
             "speaker": "少女 リーザ",
@@ -137,6 +149,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 772,
             "speaker": "仕立て屋 エルナ",
@@ -149,6 +162,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 877,
             "speaker": "少女 リーザ",
@@ -161,6 +175,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 879,
             "speaker": "仕立て屋 エルナ",
@@ -173,6 +188,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 976,
             "speaker": "少女 リーザ",
@@ -185,6 +201,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 7,
             "id": 986,
             "role": [
@@ -194,6 +211,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 7,
             "id": 986,
             "speaker": "旅人 ニコラス",

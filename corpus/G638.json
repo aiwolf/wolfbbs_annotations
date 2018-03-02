@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 200,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 225,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 267,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 278,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 452,
             "speaker": "農夫 ヤコブ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 454,
             "speaker": "少年 ペーター",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 646,
             "speaker": "少年 ペーター",
@@ -74,6 +81,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 649,
             "speaker": "羊飼い カタリナ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 650,
             "speaker": "ならず者 ディーター",
@@ -98,6 +107,7 @@
         },
         {
             "action": "CO",
+            "comment": "ギドラ",
             "day": 3,
             "id": 673,
             "role": [
@@ -108,6 +118,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 843,
             "speaker": "ならず者 ディーター",
@@ -120,6 +131,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 844,
             "speaker": "羊飼い カタリナ",
@@ -132,6 +144,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 986,
             "speaker": "羊飼い カタリナ",
@@ -144,6 +157,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1155,
             "role": [
@@ -153,6 +167,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1163,
             "role": [
@@ -162,6 +177,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1164,
             "role": [
@@ -171,6 +187,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1174,
             "role": [
@@ -180,6 +197,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1176,
             "role": [
@@ -189,6 +207,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1177,
             "role": [
@@ -198,6 +217,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1179,
             "role": [

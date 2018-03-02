@@ -2,6 +2,7 @@
     "annotations": [
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 158,
             "role": [
@@ -11,6 +12,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 159,
             "role": [
@@ -20,6 +22,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 185,
             "role": [
@@ -29,6 +32,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 1,
             "id": 258,
             "role": [
@@ -38,6 +42,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 364,
             "speaker": "仕立て屋 エルナ",
@@ -50,6 +55,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 365,
             "speaker": "司書 クララ",
@@ -62,6 +68,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 2,
             "id": 366,
             "speaker": "シスター フリーデル",
@@ -74,6 +81,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 610,
             "speaker": "司書 クララ",
@@ -86,6 +94,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 611,
             "speaker": "仕立て屋 エルナ",
@@ -98,6 +107,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 3,
             "id": 612,
             "speaker": "シスター フリーデル",
@@ -110,6 +120,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 3,
             "id": 616,
             "speaker": "村娘 パメラ",
@@ -122,6 +133,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 793,
             "speaker": "司書 クララ",
@@ -134,6 +146,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 794,
             "speaker": "仕立て屋 エルナ",
@@ -146,6 +159,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 4,
             "id": 795,
             "speaker": "シスター フリーデル",
@@ -158,6 +172,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 4,
             "id": 796,
             "speaker": "村娘 パメラ",
@@ -170,6 +185,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 947,
             "speaker": "司書 クララ",
@@ -182,6 +198,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 948,
             "speaker": "仕立て屋 エルナ",
@@ -194,6 +211,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 5,
             "id": 949,
             "speaker": "シスター フリーデル",
@@ -206,6 +224,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 5,
             "id": 950,
             "speaker": "村娘 パメラ",
@@ -218,6 +237,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1108,
             "role": [
@@ -227,6 +247,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1109,
             "role": [
@@ -236,6 +257,7 @@
         },
         {
             "action": "占い結果",
+            "comment": "",
             "day": 6,
             "id": 1112,
             "speaker": "シスター フリーデル",
@@ -248,6 +270,7 @@
         },
         {
             "action": "霊能結果",
+            "comment": "",
             "day": 6,
             "id": 1113,
             "speaker": "村娘 パメラ",
@@ -260,6 +283,7 @@
         },
         {
             "action": "CO",
+            "comment": "",
             "day": 6,
             "id": 1126,
             "role": [
@@ -269,6 +293,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1126,
             "speaker": "木こり トーマス",
@@ -278,6 +303,7 @@
         },
         {
             "action": "護衛先",
+            "comment": "",
             "day": 6,
             "id": 1143,
             "speaker": "木こり トーマス",
