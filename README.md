@@ -21,8 +21,13 @@
 - 護衛先撤回
   - （真の，あるいは偽の）狩人が過去に報告した護衛先を撤回した発言
 
-## 関連文献
-データの詳細・作成方法については[JSAI2018](https://www.ai-gakkai.or.jp/jsai2018/)のオーガナイズドセッション[人狼知能と不完全情報ゲーム](https://www.ai-gakkai.or.jp/jsai2018/os#os-13)で発表予定です．
-
-## ライセンス
-MIT License
+## 文献情報
+本コーパスを使用した場合，以下を引用してください．
+```
+@inproceedings{wolfbbscorpus2018,
+  title={人狼BBSに対する役職表明・能力行使報告情報のアノテーション},
+  author={稲葉通将 and 狩野芳伸 and 大澤博隆 and 大槻恭士 and 片上大輔 and 鳥海不二夫},
+  booktitle={第32回人工知能学会全国大会, 1H1-OS-13a-01},
+  year={2018}
+}
+```
